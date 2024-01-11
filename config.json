@@ -1,0 +1,235 @@
+[
+    {
+        "packageName": "io.github.memory.simplehook",
+        "appName": "Memory-SimpleHook",
+        "versionName": "0.0.1",
+        "description": "永久免费，禁止倒卖",
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
+        "id": 102
+    },
+    {
+        "packageName": "com.newmg.yurao.pro",
+        "appName": "屏幕翻译",
+        "versionName": "2.5.0",
+        "description": "解锁订阅",
+        "configs": "[{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"i\",\"resultValues\":\"true\"},{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"m\",\"resultValues\":\"true\"}]",
+        "id": 95
+    },
+    {
+        "packageName": "ml.docilealligator.infinityforreddit",
+        "appName": "Infinity",
+        "versionName": "6.6.0",
+        "description": "解锁订阅",
+        "configs": "[{\"mode\":2,\"className\":\"ml.docilealligator.infinityforreddit.Infinity\",\"methodName\":\"B\"}]",
+        "id": 85
+    },
+    {
+        "packageName": "mark.via",
+        "appName": "Via",
+        "versionName": "5.2.0",
+        "description": "解除“该站点不支持嗅探”限制",
+        "configs": "[{\"className\":\"h.a.u.p.c\",\"methodName\":\"m\",\"params\":\"java.lang.String\",\"resultValues\":\"false\"}]",
+        "id": 82
+    },
+    {
+        "packageName": "com.fat.vpn",
+        "appName": "小胖VPN",
+        "versionName": "1.6.0",
+        "description": "解锁会员线路",
+        "configs": "[{\"className\":\"com.fat.vpn.domain.model.VpnServerNodesItem\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fat.vpn.domain.model.VpnCountry\",\"methodName\":\"isVip\",\"resultValues\":\"true\"}]",
+        "id": 81
+    },
+    {
+        "packageName": "com.fenbi.android.solar",
+        "appName": "小猿搜题",
+        "versionName": "11.45.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.fenbi.android.leo.webapp.VipPaidBean\",\"methodName\":\"isVipPaidSuccess\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.component.comment.vo.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.yuantiku.android.common.comment.data.Comment$InnerUser\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"getExpireTime\",\"resultValues\":\"113135932800l\"}]",
+        "id": 77
+    },
+    {
+        "packageName": "com.mylrc.mymusic",
+        "appName": "歌词适配",
+        "versionName": "4.1.4",
+        "description": "去更新",
+        "configs": "[{\"mode\":2,\"className\":\"q0.k\",\"methodName\":\"o\"}]",
+        "id": 75
+    },
+    {
+        "packageName": "com.mutangtech.qianji",
+        "appName": "钱迹",
+        "versionName": "3.2.1.13",
+        "description": "解锁终身会员",
+        "configs": "[{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getVipType\",\"resultValues\":\"100\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegDayCount\",\"resultValues\":\"5201314\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegTimeInSec\",\"resultValues\":\"113135932800l\"}]",
+        "id": 72
+    },
+    {
+        "packageName": "com.magir.aiart",
+        "appName": "Magir",
+        "versionName": "5.0.0",
+        "description": "解锁Pro版",
+        "configs": "[{\"className\":\"pandajoy.jc.b\",\"methodName\":\"u\",\"params\":\"java.lang.String,Z\",\"resultValues\":\"true\"}]",
+        "id": 69
+    },
+    {
+        "packageName": "me.mapleaf.leafwidget",
+        "appName": "一叶微件",
+        "versionName": "1.1.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"q5.s\",\"methodName\":\"isPro\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"isExpire\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"getProType\",\"resultValues\":\"true\",\"enable\":false}]",
+        "id": 67
+    },
+    {
+        "packageName": "me.mapleaf.calendar",
+        "appName": "一叶日历",
+        "versionName": "1.9.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"l7.d\",\"methodName\":\"getIsPro\",\"resultValues\":\"true\"}]",
+        "id": 66
+    },
+    {
+        "packageName": "bitpit.launcher",
+        "appName": "Niagara Launcher",
+        "versionName": "1.10.6",
+        "description": "解锁Niagara Launcher Pro",
+        "configs": "[{\"className\":\"b.uauPzdjbSmHYY5\",\"methodName\":\"FemyFMbfmLrWu0N\",\"resultValues\":\"true\"},{\"mode\":1,\"className\":\"b.f1955MGKDTM\",\"methodName\":\"QohvyaI5BRnVdXzfCob7XkE1lWd\",\"params\":\"I,Z\",\"resultValues\":\"114514,true\"}]",
+        "id": 60
+    },
+    {
+        "packageName": "com.happy.download",
+        "appName": "快乐下载",
+        "versionName": "1.20",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVip\",\"resultValues\":\"94\"},{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVipType\",\"resultValues\":\"永久会员\"}]",
+        "id": 59
+    },
+    {
+        "packageName": "eu.darken.sdmse",
+        "appName": "SD Maid SE",
+        "versionName": "0.17.0-beta0",
+        "description": "解锁高级版",
+        "configs": "[{\"mode\":3,\"fieldName\":\"isPro\",\"fieldClassName\":\"eu.darken.sdmse.common.upgrade.core.UpgradeRepoFoss$Info\",\"resultValues\":\"true\"}]",
+        "id": 58
+    },
+    {
+        "packageName": "com.piyush.music",
+        "appName": "Oto Music",
+        "versionName": "3.9.5",
+        "description": "解锁Oto Music+",
+        "configs": "[{\"className\":\"com.piyush.music.App$OOOo0oOOOo\",\"methodName\":\"o0O0o00000\",\"resultValues\":\"true\"}]",
+        "id": 56
+    },
+    {
+        "packageName": "com.superpaninbros.glng",
+        "appName": "GLTools",
+        "versionName": "1.0 NG",
+        "description": "解锁Premium",
+        "configs": "[{\"className\":\"h.h.a.i.i\",\"methodName\":\"e\",\"resultValues\":\"true\"}]",
+        "id": 54
+    },
+    {
+        "packageName": "eu.thedarken.sdm",
+        "appName": "SD Maid",
+        "versionName": "5.5.7",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"eu.thedarken.sdm.main.core.upgrades.account.a\",\"methodName\":\"c\",\"resultValues\":\"true\"}]",
+        "id": 53
+    },
+    {
+        "packageName": "com.funny.translation",
+        "appName": "译站",
+        "versionName": "2.6.9",
+        "description": "解锁会员，解锁同时选择引擎数量上限",
+        "configs": "[{\"className\":\"com.funny.translation.AppConfig\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.funny.translation.Consts\",\"methodName\":\"getMAX_SELECT_ENGINES\",\"resultValues\":\"99\"}]",
+        "id": 40
+    },
+    {
+        "packageName": "web1n.stopapp",
+        "appName": "小黑屋",
+        "versionName": "1.9.18c",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"web1n.stopapp.pq\",\"methodName\":\"do\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
+        "id": 38
+    },
+    {
+        "packageName": "com.miui.personalassistant",
+        "appName": "智能助理",
+        "versionName": "5.5.61-02031600",
+        "description": "破解小部件",
+        "configs": "[{\"className\":\"com.miui.maml.widget.edit.MamlutilKt\",\"methodName\":\"themeManagerSupportPaidWidget\",\"params\":\"android.content.Context\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"isCanDirectAddMaMl\",\"params\":\"I\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.utils.PickerDetailDownloadManager$Companion\",\"methodName\":\"isCanDownload\",\"params\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponse\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.utils.PickerDetailUtil\",\"methodName\":\"isCanAutoDownloadMaMl\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponse\",\"methodName\":\"isPay\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponse\",\"methodName\":\"isBought\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponseWrapper\",\"methodName\":\"isPay\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponseWrapper\",\"methodName\":\"isBought\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"shouldCheckMamlBoughtState\",\"params\":\"I\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"isTargetPositionMamlPayAndDownloading\",\"params\":\"I\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"checkIsIndependentProcessWidgetForPosition\",\"params\":\"I\",\"resultValues\":\"true\"}]",
+        "id": 34
+    },
+    {
+        "packageName": "com.didjdk.adbhelper",
+        "appName": "甲壳虫ADB助手",
+        "versionName": "1.3.0",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
+        "id": 28
+    },
+    {
+        "packageName": "moe.shizuku.redirectstorage",
+        "appName": "存储空间隔离",
+        "versionName": "8.7.4.r3678.7588f8c7a-arm64-v8a",
+        "description": "解锁订阅",
+        "configs": "[{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"没收桌子\",\"params\":\"Z\",\"resultValues\":\"true\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.nb1\",\"methodName\":\"没收门\",\"params\":\"java.lang.String,java.lang.String,java.lang.String\",\"resultValues\":\"笑死，hook出这个鬼东西.\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"前方鱼雷接近\",\"params\":\"Z\",\"resultValues\":\"true\"}]",
+        "id": 25
+    },
+    {
+        "packageName": "com.miui.powerkeeper",
+        "appName": "电量和性能",
+        "versionName": "4.2.00",
+        "description": "解决MIUI夜间自动清后台",
+        "configs": "[{\"className\":\"com.miui.powerkeeper.statemachine.PowerStateMachine\",\"methodName\":\"clearAppWhenScreenOffTimeOut\",\"resultValues\":\"null\"},{\"className\":\"com.miui.powerkeeper.statemachine.PowerStateMachine\",\"methodName\":\"clearAppWhenScreenOffTimeOutInNight\",\"resultValues\":\"null\"},{\"className\":\"com.miui.powerkeeper.statemachine.SleepModeControllerNew\",\"methodName\":\"clearApp\",\"resultValues\":\"null\"}]",
+        "id": 24
+    },
+    {
+        "packageName": "com.tencent.tmgp.sgame",
+        "appName": "王者荣耀",
+        "versionName": "3.74.1.6",
+        "description": "伪装机型开启极高(120帧)帧率",
+        "configs": "[{\"className\":\"\",\"enable\":true,\"fieldClassName\":\"android.os.Build\",\"fieldName\":\"BRAND\",\"hookPoint\":\"after\",\"methodName\":\"\",\"mode\":3,\"params\":\"\",\"resultValues\":\"vivo\",\"returnClassName\":\"\"},{\"className\":\"\",\"enable\":true,\"fieldClassName\":\"android.os.Build\",\"fieldName\":\"MANUFACTURER\",\"hookPoint\":\"after\",\"methodName\":\"\",\"mode\":3,\"params\":\"\",\"resultValues\":\"vivo\",\"returnClassName\":\"\"},{\"className\":\"\",\"enable\":true,\"fieldClassName\":\"android.os.Build\",\"fieldName\":\"MODEL\",\"hookPoint\":\"after\",\"methodName\":\"\",\"mode\":3,\"params\":\"\",\"resultValues\":\"V2141A\",\"returnClassName\":\"\"}]",
+        "id": 23
+    },
+    {
+        "packageName": "code.name.monkey.retromusic",
+        "appName": "Retro Music",
+        "versionName": "6.1.0",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"code.name.monkey.retromusic.App$a\",\"methodName\":\"a\",\"resultValues\":\"true\"}]",
+        "id": 20
+    },
+    {
+        "packageName": "rikka.appops",
+        "appName": "App Ops",
+        "versionName": "7.0.0.r1542.be483e26",
+        "description": "解锁完整版",
+        "configs": "[{\"className\":\"rikka.appops.ye\",\"methodName\":\"没收感叹号\",\"resultValues\":\"true\"}]",
+        "id": 16
+    },
+    {
+        "packageName": "com.kmxs.reader",
+        "appName": "七猫免费小说",
+        "versionName": "7.3.86",
+        "description": "解锁VIP",
+        "configs": "[{\"className\":\"sp0\",\"methodName\":\"i\",\"params\":\"*\",\"resultValues\":\"1s\"},{\"className\":\"com.qimao.qmreader.reader.viewmodel.SingleVipViewModel\",\"methodName\":\"n\",\"params\":\"java.lang.String\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"com.qimao.qmservice.ad.entity.AdDataConfig\",\"methodName\":\"getAdvertiser\"}]",
+        "id": 13
+    },
+    {
+        "packageName": "world.letsgo.booster.android.pro",
+        "appName": "快连 VPN",
+        "versionName": "2.18.20",
+        "description": "随机id,切换线路,铂金会员.",
+        "configs": "[{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getLevelTitle\",\"resultValues\":\"铂金会员\",\"enable\":false},{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getUserLevel\",\"resultValues\":\"platinum\",\"enable\":false},{\"className\":\"gs.l\",\"methodName\":\"d\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\",\"enable\":false},{\"className\":\"ds.m\",\"methodName\":\"f\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\"}]",
+        "enable": false,
+        "id": 10
+    },
+    {
+        "packageName": "com.dragon.read",
+        "appName": "番茄免费小说",
+        "versionName": "5.8.5.32",
+        "description": "解锁会员",
+        "configs": "[{\"mode\":2,\"className\":\"com.dragon.read.widget.m\",\"methodName\":\"a\",\"params\":\"*\"},{\"mode\":2,\"className\":\"com.dragon.read.reader.ad.readflow\",\"methodName\":\"*\",\"params\":\"*\"},{\"mode\":1,\"className\":\"com.dragon.read.user.model.VipInfoModel\",\"methodName\":\"<init>\",\"params\":\"java.lang.String,java.lang.String,java.lang.String,Z,Z,I\",\"resultValues\":\"1893211199s,1s,1s,true,,\"}]",
+        "id": 9
+    }
+]
