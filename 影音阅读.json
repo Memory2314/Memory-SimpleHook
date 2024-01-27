@@ -1,0 +1,42 @@
+[
+    {
+        "packageName": "io.github.memory.simplehook",
+        "appName": "Memory-SimpleHook  影音阅读",
+        "versionName": "0.0.1",
+        "description": "永久免费，禁止倒卖",
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
+        "id": 102
+    },
+    {
+        "packageName": "com.piyush.music",
+        "appName": "Oto Music",
+        "versionName": "3.9.5",
+        "description": "解锁Oto Music+",
+        "configs": "[{\"className\":\"com.piyush.music.App$OOOo0oOOOo\",\"methodName\":\"o0O0o00000\",\"resultValues\":\"true\"}]",
+        "id": 56
+    },
+    {
+        "packageName": "code.name.monkey.retromusic",
+        "appName": "Retro Music",
+        "versionName": "6.1.0",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"code.name.monkey.retromusic.App$a\",\"methodName\":\"a\",\"resultValues\":\"true\"}]",
+        "id": 20
+    },
+    {
+        "packageName": "com.kmxs.reader",
+        "appName": "七猫免费小说",
+        "versionName": "7.3.86",
+        "description": "解锁VIP",
+        "configs": "[{\"className\":\"sp0\",\"methodName\":\"i\",\"params\":\"*\",\"resultValues\":\"1s\"},{\"className\":\"com.qimao.qmreader.reader.viewmodel.SingleVipViewModel\",\"methodName\":\"n\",\"params\":\"java.lang.String\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"com.qimao.qmservice.ad.entity.AdDataConfig\",\"methodName\":\"getAdvertiser\"}]",
+        "id": 13
+    },
+    {
+        "packageName": "com.dragon.read",
+        "appName": "番茄免费小说",
+        "versionName": "5.8.5.32",
+        "description": "解锁会员",
+        "configs": "[{\"mode\":2,\"className\":\"com.dragon.read.widget.m\",\"methodName\":\"a\",\"params\":\"*\"},{\"mode\":2,\"className\":\"com.dragon.read.reader.ad.readflow\",\"methodName\":\"*\",\"params\":\"*\"},{\"mode\":1,\"className\":\"com.dragon.read.user.model.VipInfoModel\",\"methodName\":\"<init>\",\"params\":\"java.lang.String,java.lang.String,java.lang.String,Z,Z,I\",\"resultValues\":\"1893211199s,1s,1s,true,,\"}]",
+        "id": 9
+    }
+]

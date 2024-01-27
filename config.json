@@ -231,5 +231,53 @@
         "description": "解锁会员",
         "configs": "[{\"mode\":2,\"className\":\"com.dragon.read.widget.m\",\"methodName\":\"a\",\"params\":\"*\"},{\"mode\":2,\"className\":\"com.dragon.read.reader.ad.readflow\",\"methodName\":\"*\",\"params\":\"*\"},{\"mode\":1,\"className\":\"com.dragon.read.user.model.VipInfoModel\",\"methodName\":\"<init>\",\"params\":\"java.lang.String,java.lang.String,java.lang.String,Z,Z,I\",\"resultValues\":\"1893211199s,1s,1s,true,,\"}]",
         "id": 9
+    },
+    {
+        "packageName": "lumyuan.vab.update.easyship",
+        "appName": "一叶孤舟 2",
+        "versionName": "1.0.7",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"lumyuan.vab.update.easyship.net.entity.rep.UserData$Data\",\"methodName\":\"getVip\",\"resultValues\":\"true\"}]",
+        "id": 237
+    },
+    {
+        "packageName": "com.tencent.mm",
+        "appName": "微信",
+        "versionName": "8.0.37",
+        "description": "解除语音/视频通话播放视频/语音限制",
+        "configs": "[{\"className\":\"com.tencent.mm.plugin.voip.model.NewVoipMgr$2\",\"methodName\":\"callback\",\"params\":\"com.tencent.mm.sdk.event.IEvent\",\"resultValues\":\"true\"}]",
+        "id": 239
+    },
+    {
+        "packageName": "github.tornaco.android.thanos",
+        "appName": "Thanox",
+        "versionName": "5.0.3-prc",
+        "description": "解锁高级版 5.0.3-prc",
+        "configs": "[{\"className\":\"fortuitous.ny1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"fortuitous.pg3\",\"methodName\":\"i0\",\"params\":\"android.app.Application\"}]",
+        "id": 242
+    },
+    {
+        "packageName": "cn.trinea.android.developertools",
+        "appName": "开发助手",
+        "versionName": "7.1.0-gp",
+        "description": "解锁专业版",
+        "configs": "[{\"className\":\"o0000ooO.o0OOO0o\",\"methodName\":\"OooO0o\",\"params\":\"android.content.Context,Z\",\"resultValues\":\"true\"}]",
+        "id": 236
+    },
+    {
+        "packageName": "com.xt.retouch",
+        "appName": "醒图",
+        "versionName": "9.0.0",
+        "description": "解锁会员",
+        "configs": "[{\"mode\":3,\"fieldName\":\"f\",\"fieldClassName\":\"com.xt.retouch.subscribe.api.b.d\",\"resultValues\":\"true\"}]",
+        "id": 249
+    },
+    {
+        "packageName": "com.bly.dkplat",
+        "appName": "小X分身",
+        "versionName": "19.2",
+        "description": "无限制",
+        "configs": "[{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"q\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"c\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"G\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.utils.StringUtils\",\"methodName\":\"getExpiredString\",\"params\":\"J\",\"resultValues\":\"无限制\",\"hookPoint\":\"after\"}]",
+        "id": 27
     }
 ]

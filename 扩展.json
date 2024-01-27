@@ -1,0 +1,42 @@
+[
+    {
+        "packageName": "io.github.memory.simplehook",
+        "appName": "Memory-SimpleHook  扩展",
+        "versionName": "0.0.1",
+        "description": "永久免费，禁止倒卖",
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
+        "id": 102
+    },
+    {
+        "packageName": "com.miui.personalassistant",
+        "appName": "智能助理",
+        "versionName": "5.5.61-02031600",
+        "description": "破解小部件",
+        "configs": "[{\"className\":\"com.miui.maml.widget.edit.MamlutilKt\",\"methodName\":\"themeManagerSupportPaidWidget\",\"params\":\"android.content.Context\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"isCanDirectAddMaMl\",\"params\":\"I\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.utils.PickerDetailDownloadManager$Companion\",\"methodName\":\"isCanDownload\",\"params\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponse\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.utils.PickerDetailUtil\",\"methodName\":\"isCanAutoDownloadMaMl\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponse\",\"methodName\":\"isPay\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponse\",\"methodName\":\"isBought\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponseWrapper\",\"methodName\":\"isPay\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.bean.PickerDetailResponseWrapper\",\"methodName\":\"isBought\",\"resultValues\":\"true\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"shouldCheckMamlBoughtState\",\"params\":\"I\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"isTargetPositionMamlPayAndDownloading\",\"params\":\"I\",\"resultValues\":\"false\"},{\"className\":\"com.miui.personalassistant.picker.business.detail.PickerDetailViewModel\",\"methodName\":\"checkIsIndependentProcessWidgetForPosition\",\"params\":\"I\",\"resultValues\":\"true\"}]",
+        "id": 34
+    },
+    {
+        "packageName": "com.miui.powerkeeper",
+        "appName": "电量和性能",
+        "versionName": "4.2.00",
+        "description": "解决MIUI夜间自动清后台",
+        "configs": "[{\"className\":\"com.miui.powerkeeper.statemachine.PowerStateMachine\",\"methodName\":\"clearAppWhenScreenOffTimeOut\",\"resultValues\":\"null\"},{\"className\":\"com.miui.powerkeeper.statemachine.PowerStateMachine\",\"methodName\":\"clearAppWhenScreenOffTimeOutInNight\",\"resultValues\":\"null\"},{\"className\":\"com.miui.powerkeeper.statemachine.SleepModeControllerNew\",\"methodName\":\"clearApp\",\"resultValues\":\"null\"}]",
+        "id": 24
+    },
+    {
+        "packageName": "com.tencent.tmgp.sgame",
+        "appName": "王者荣耀",
+        "versionName": "3.74.1.6",
+        "description": "伪装机型开启极高(120帧)帧率",
+        "configs": "[{\"className\":\"\",\"enable\":true,\"fieldClassName\":\"android.os.Build\",\"fieldName\":\"BRAND\",\"hookPoint\":\"after\",\"methodName\":\"\",\"mode\":3,\"params\":\"\",\"resultValues\":\"vivo\",\"returnClassName\":\"\"},{\"className\":\"\",\"enable\":true,\"fieldClassName\":\"android.os.Build\",\"fieldName\":\"MANUFACTURER\",\"hookPoint\":\"after\",\"methodName\":\"\",\"mode\":3,\"params\":\"\",\"resultValues\":\"vivo\",\"returnClassName\":\"\"},{\"className\":\"\",\"enable\":true,\"fieldClassName\":\"android.os.Build\",\"fieldName\":\"MODEL\",\"hookPoint\":\"after\",\"methodName\":\"\",\"mode\":3,\"params\":\"\",\"resultValues\":\"V2141A\",\"returnClassName\":\"\"}]",
+        "id": 23
+    },
+    {
+        "packageName": "com.tencent.mm",
+        "appName": "微信",
+        "versionName": "8.0.37",
+        "description": "解除语音/视频通话播放视频/语音限制",
+        "configs": "[{\"className\":\"com.tencent.mm.plugin.voip.model.NewVoipMgr$2\",\"methodName\":\"callback\",\"params\":\"com.tencent.mm.sdk.event.IEvent\",\"resultValues\":\"true\"}]",
+        "id": 239
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "packageName": "io.github.memory.simplehook",
+        "appName": "Memory-SimpleHook  科学上网",
+        "versionName": "0.0.1",
+        "description": "永久免费，禁止倒卖",
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
+        "id": 102
+    },
+    {
+        "packageName": "ml.docilealligator.infinityforreddit",
+        "appName": "Infinity",
+        "versionName": "6.6.0",
+        "description": "解锁订阅",
+        "configs": "[{\"mode\":2,\"className\":\"ml.docilealligator.infinityforreddit.Infinity\",\"methodName\":\"B\"}]",
+        "id": 85
+    },
+    {
+        "packageName": "com.fat.vpn",
+        "appName": "小胖VPN",
+        "versionName": "1.6.0",
+        "description": "解锁会员线路",
+        "configs": "[{\"className\":\"com.fat.vpn.domain.model.VpnServerNodesItem\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fat.vpn.domain.model.VpnCountry\",\"methodName\":\"isVip\",\"resultValues\":\"true\"}]",
+        "id": 81
+    },
+    {
+        "packageName": "world.letsgo.booster.android.pro",
+        "appName": "快连 VPN",
+        "versionName": "2.18.20",
+        "description": "随机id,切换线路,铂金会员.",
+        "configs": "[{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getLevelTitle\",\"resultValues\":\"铂金会员\",\"enable\":false},{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getUserLevel\",\"resultValues\":\"platinum\",\"enable\":false},{\"className\":\"gs.l\",\"methodName\":\"d\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\",\"enable\":false},{\"className\":\"ds.m\",\"methodName\":\"f\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\"}]",
+        "enable": false,
+        "id": 10
+    }
+]

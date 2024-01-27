@@ -1,0 +1,114 @@
+[
+    {
+        "packageName": "io.github.memory.simplehook",
+        "appName": "Memory-SimpleHook  实用软件",
+        "versionName": "0.0.1",
+        "description": "永久免费，禁止倒卖",
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
+        "id": 102
+    },
+    {
+        "packageName": "com.newmg.yurao.pro",
+        "appName": "屏幕翻译",
+        "versionName": "2.5.0",
+        "description": "解锁订阅",
+        "configs": "[{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"i\",\"resultValues\":\"true\"},{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"m\",\"resultValues\":\"true\"}]",
+        "id": 95
+    },
+    {
+        "packageName": "mark.via",
+        "appName": "Via",
+        "versionName": "5.2.0",
+        "description": "解除“该站点不支持嗅探”限制",
+        "configs": "[{\"className\":\"h.a.u.p.c\",\"methodName\":\"m\",\"params\":\"java.lang.String\",\"resultValues\":\"false\"}]",
+        "id": 82
+    },
+    {
+        "packageName": "com.fenbi.android.solar",
+        "appName": "小猿搜题",
+        "versionName": "11.45.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.fenbi.android.leo.webapp.VipPaidBean\",\"methodName\":\"isVipPaidSuccess\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.component.comment.vo.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.yuantiku.android.common.comment.data.Comment$InnerUser\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"getExpireTime\",\"resultValues\":\"113135932800l\"}]",
+        "id": 77
+    },
+    {
+        "packageName": "com.mylrc.mymusic",
+        "appName": "歌词适配",
+        "versionName": "4.1.4",
+        "description": "去更新",
+        "configs": "[{\"mode\":2,\"className\":\"q0.k\",\"methodName\":\"o\"}]",
+        "id": 75
+    },
+    {
+        "packageName": "com.mutangtech.qianji",
+        "appName": "钱迹",
+        "versionName": "3.2.1.13",
+        "description": "解锁终身会员",
+        "configs": "[{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getVipType\",\"resultValues\":\"100\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegDayCount\",\"resultValues\":\"5201314\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegTimeInSec\",\"resultValues\":\"113135932800l\"}]",
+        "id": 72
+    },
+    {
+        "packageName": "com.magir.aiart",
+        "appName": "Magir",
+        "versionName": "5.0.0",
+        "description": "解锁Pro版",
+        "configs": "[{\"className\":\"pandajoy.jc.b\",\"methodName\":\"u\",\"params\":\"java.lang.String,Z\",\"resultValues\":\"true\"}]",
+        "id": 69
+    },
+    {
+        "packageName": "me.mapleaf.leafwidget",
+        "appName": "一叶微件",
+        "versionName": "1.1.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"q5.s\",\"methodName\":\"isPro\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"isExpire\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"getProType\",\"resultValues\":\"true\",\"enable\":false}]",
+        "id": 67
+    },
+    {
+        "packageName": "me.mapleaf.calendar",
+        "appName": "一叶日历",
+        "versionName": "1.9.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"l7.d\",\"methodName\":\"getIsPro\",\"resultValues\":\"true\"}]",
+        "id": 66
+    },
+    {
+        "packageName": "bitpit.launcher",
+        "appName": "Niagara Launcher",
+        "versionName": "1.10.6",
+        "description": "解锁Niagara Launcher Pro",
+        "configs": "[{\"className\":\"b.uauPzdjbSmHYY5\",\"methodName\":\"FemyFMbfmLrWu0N\",\"resultValues\":\"true\"},{\"mode\":1,\"className\":\"b.f1955MGKDTM\",\"methodName\":\"QohvyaI5BRnVdXzfCob7XkE1lWd\",\"params\":\"I,Z\",\"resultValues\":\"114514,true\"}]",
+        "id": 60
+    },
+    {
+        "packageName": "com.happy.download",
+        "appName": "快乐下载",
+        "versionName": "1.20",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVip\",\"resultValues\":\"94\"},{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVipType\",\"resultValues\":\"永久会员\"}]",
+        "id": 59
+    },
+    {
+        "packageName": "com.funny.translation",
+        "appName": "译站",
+        "versionName": "2.6.9",
+        "description": "解锁会员，解锁同时选择引擎数量上限",
+        "configs": "[{\"className\":\"com.funny.translation.AppConfig\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.funny.translation.Consts\",\"methodName\":\"getMAX_SELECT_ENGINES\",\"resultValues\":\"99\"}]",
+        "id": 40
+    },
+    {
+        "packageName": "com.xt.retouch",
+        "appName": "醒图",
+        "versionName": "9.0.0",
+        "description": "解锁会员",
+        "configs": "[{\"mode\":3,\"fieldName\":\"f\",\"fieldClassName\":\"com.xt.retouch.subscribe.api.b.d\",\"resultValues\":\"true\"}]",
+        "id": 249
+    },
+    {
+        "packageName": "com.bly.dkplat",
+        "appName": "小X分身",
+        "versionName": "19.2",
+        "description": "无限制",
+        "configs": "[{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"q\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"c\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"G\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.utils.StringUtils\",\"methodName\":\"getExpiredString\",\"params\":\"J\",\"resultValues\":\"无限制\",\"hookPoint\":\"after\"}]",
+        "id": 27
+    }
+]

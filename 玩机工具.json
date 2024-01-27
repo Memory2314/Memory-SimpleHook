@@ -1,0 +1,82 @@
+[
+    {
+        "packageName": "io.github.memory.simplehook",
+        "appName": "Memory-SimpleHook  玩机工具",
+        "versionName": "0.0.1",
+        "description": "永久免费，禁止倒卖",
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
+        "id": 102
+    },
+    {
+        "packageName": "eu.darken.sdmse",
+        "appName": "SD Maid SE",
+        "versionName": "0.17.0-beta0",
+        "description": "解锁高级版",
+        "configs": "[{\"mode\":3,\"fieldName\":\"isPro\",\"fieldClassName\":\"eu.darken.sdmse.common.upgrade.core.UpgradeRepoFoss$Info\",\"resultValues\":\"true\"}]",
+        "id": 58
+    },
+    {
+        "packageName": "com.superpaninbros.glng",
+        "appName": "GLTools",
+        "versionName": "1.0 NG",
+        "description": "解锁Premium",
+        "configs": "[{\"className\":\"h.h.a.i.i\",\"methodName\":\"e\",\"resultValues\":\"true\"}]",
+        "id": 54
+    },
+    {
+        "packageName": "eu.thedarken.sdm",
+        "appName": "SD Maid",
+        "versionName": "5.5.7",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"eu.thedarken.sdm.main.core.upgrades.account.a\",\"methodName\":\"c\",\"resultValues\":\"true\"}]",
+        "id": 53
+    },
+    {
+        "packageName": "web1n.stopapp",
+        "appName": "小黑屋",
+        "versionName": "1.9.18c",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"web1n.stopapp.pq\",\"methodName\":\"do\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
+        "id": 38
+    },
+    {
+        "packageName": "com.didjdk.adbhelper",
+        "appName": "甲壳虫ADB助手",
+        "versionName": "1.3.0",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
+        "id": 28
+    },
+    {
+        "packageName": "moe.shizuku.redirectstorage",
+        "appName": "存储空间隔离",
+        "versionName": "8.7.4.r3678.7588f8c7a-arm64-v8a",
+        "description": "解锁订阅",
+        "configs": "[{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"没收桌子\",\"params\":\"Z\",\"resultValues\":\"true\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.nb1\",\"methodName\":\"没收门\",\"params\":\"java.lang.String,java.lang.String,java.lang.String\",\"resultValues\":\"笑死，hook出这个鬼东西.\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"前方鱼雷接近\",\"params\":\"Z\",\"resultValues\":\"true\"}]",
+        "id": 25
+    },
+    {
+        "packageName": "lumyuan.vab.update.easyship",
+        "appName": "一叶孤舟 2",
+        "versionName": "1.0.7",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"lumyuan.vab.update.easyship.net.entity.rep.UserData$Data\",\"methodName\":\"getVip\",\"resultValues\":\"true\"}]",
+        "id": 237
+    },
+    {
+        "packageName": "github.tornaco.android.thanos",
+        "appName": "Thanox",
+        "versionName": "5.0.3-prc",
+        "description": "解锁高级版 5.0.3-prc",
+        "configs": "[{\"className\":\"fortuitous.ny1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"fortuitous.pg3\",\"methodName\":\"i0\",\"params\":\"android.app.Application\"}]",
+        "id": 242
+    },
+    {
+        "packageName": "cn.trinea.android.developertools",
+        "appName": "开发助手",
+        "versionName": "7.1.0-gp",
+        "description": "解锁专业版",
+        "configs": "[{\"className\":\"o0000ooO.o0OOO0o\",\"methodName\":\"OooO0o\",\"params\":\"android.content.Context,Z\",\"resultValues\":\"true\"}]",
+        "id": 236
+    }
+]
