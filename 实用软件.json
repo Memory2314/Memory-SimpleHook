@@ -110,5 +110,21 @@
         "description": "无限制",
         "configs": "[{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"q\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"c\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"G\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.utils.StringUtils\",\"methodName\":\"getExpiredString\",\"params\":\"J\",\"resultValues\":\"无限制\",\"hookPoint\":\"after\"}]",
         "id": 27
+    },
+    {
+        "packageName": "com.wangc.bill",
+        "appName": "一木记账",
+        "versionName": "v5.5.7",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"getVipType\",\"resultValues\":\"2\"},{\"mode\":2,\"className\":\"com.wangc.bill.activity.setting.BackupActivity$b\",\"methodName\":\"onResponse\",\"params\":\"retrofit2.Response\"},{\"mode\":2,\"className\":\"com.wangc.bill.manager.y3\",\"methodName\":\"b\",\"params\":\"androidx.appcompat.app.AppCompatActivity,java.lang.String,java.lang.String\"}]",
+        "id": 258
+    },
+    {
+        "packageName": "com.mubu.app",
+        "appName": "幕布",
+        "versionName": "2.30.3",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isLifetimeVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 270
     }
 ]

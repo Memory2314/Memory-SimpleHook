@@ -63,11 +63,12 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 <details>
 <summary>点击展开折叠的内容</summary>
 
-| 应用名称          | 描述           |
-|------------------|--------------|
-| Infinity          | 解锁订阅        |
-| 小胖VPN            | 解锁会员线路      |
-| 快连 VPN           | 随机id,切换线路,铂金会员. |
+| 应用名称          | 描述                   |
+|------------------|---------------------------|
+| Infinity          | 解锁订阅                 |
+| 小胖VPN         | 解锁会员线路             |
+| 快连 VPN        | 随机id,切换线路,铂金会员.  |
+| SpaceVPN       | 解锁会员，去更新          |
 
 </details>
 
@@ -75,12 +76,14 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 <details>
 <summary>点击展开折叠的内容</summary>
 
-| 应用名称                | 描述                   |
+| 应用名称                | 描述           |
 |------------------------|----------------------|
-| Oto Music              | 解锁Oto Music+       |
-| Retro Music            | 解锁高级版               |
-| 七猫免费小说              | 解锁VIP                |
-| 番茄免费小说              | 解锁会员                |
+| Oto Music              | 解锁Oto Music+ |
+| Retro Music            | 解锁高级版       |
+| 七猫免费小说              | 解锁VIP       |
+| 番茄免费小说              | 解锁会员      |
+| bilibili                    | 解锁会员画质   |
+| 酷狗概念版                | 去更新         |
 
 </details>
 
@@ -88,17 +91,21 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 <details>
 <summary>点击展开折叠的内容</summary>
 
-| 应用名称         | 描述       |
-|-----------------|------------|
-| SD Maid SE       | 解锁高级版 |
-| GLTools          | 解锁Premium |
-| SD Maid          | 解锁高级版 |
-| 小黑屋            | 解锁高级版 |
-| 甲壳虫ADB助手       | 解锁高级版 |
-| 存储空间隔离        | 解锁订阅   |
-| 一叶孤舟 2         | 解锁会员   |
+| 应用名称         | 描述               |
+|-----------------|-----------------------|
+| SD Maid SE       | 解锁高级版        |
+| GLTools          | 解锁Premium       |
+| SD Maid          | 解锁高级版        |
+| 小黑屋            | 解锁高级版        |
+| 甲壳虫ADB助手       | 解锁高级版     |
+| 存储空间隔离        | 解锁订阅        |
+| 一叶孤舟 2         | 解锁会员         |
 | Thanox         | 解锁高级版 5.0.3-prc |
-| 开发助手        | 解锁专业版      |
+| 开发助手        | 解锁专业版          |
+| AccuBattery    | 解锁AccuBattery Pro |
+| 通知滤盒       | 解锁高级版           |
+| HookUI        | 解锁捐赠VIP无限制版  |
+| Battery Guru    | 解锁订阅            |
 
 </details>
 
@@ -121,6 +128,8 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 译站              | 解锁订阅           |
 | 醒图              | 解锁会员           |
 | 小X分身           | 无限制            |
+| 一木记账          | 解锁永久会员      |
+| 幕布              | 解锁会员          |
 
 </details>
 

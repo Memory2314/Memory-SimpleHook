@@ -31,5 +31,13 @@
         "configs": "[{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getLevelTitle\",\"resultValues\":\"铂金会员\",\"enable\":false},{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getUserLevel\",\"resultValues\":\"platinum\",\"enable\":false},{\"className\":\"gs.l\",\"methodName\":\"d\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\",\"enable\":false},{\"className\":\"ds.m\",\"methodName\":\"f\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\"}]",
         "enable": false,
         "id": 10
+    },
+    {
+        "packageName": "com.richtech.spacevpn",
+        "appName": "SpaceVPN",
+        "versionName": "2.1.7.8",
+        "description": "解锁会员，去内/外更新",
+        "configs": "[{\"className\":\"com.richtech.spacevpn.manager.DeviceManager\",\"methodName\":\"isExpired\",\"resultValues\":\"false\"},{\"className\":\"com.richtech.spacevpn.eventbus.UpgradeEvent\",\"methodName\":\"isNeedUpgrade\",\"resultValues\":\"false\"},{\"className\":\"com.google.android.play.core.appupdate.internal.zzab\",\"methodName\":\"zza\",\"params\":\"android.content.Context\",\"resultValues\":\"false\"}]",
+        "id": 262
     }
 ]

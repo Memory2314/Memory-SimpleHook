@@ -162,10 +162,10 @@
     {
         "packageName": "com.didjdk.adbhelper",
         "appName": "甲壳虫ADB助手",
-        "versionName": "1.3.0",
+        "versionName": "1.3.1",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
-        "id": 28
+        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 271
     },
     {
         "packageName": "moe.shizuku.redirectstorage",
@@ -279,5 +279,77 @@
         "description": "无限制",
         "configs": "[{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"q\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"c\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"G\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.utils.StringUtils\",\"methodName\":\"getExpiredString\",\"params\":\"J\",\"resultValues\":\"无限制\",\"hookPoint\":\"after\"}]",
         "id": 27
+    },
+    {
+        "packageName": "com.wangc.bill",
+        "appName": "一木记账",
+        "versionName": "v5.5.7",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"getVipType\",\"resultValues\":\"2\"},{\"mode\":2,\"className\":\"com.wangc.bill.activity.setting.BackupActivity$b\",\"methodName\":\"onResponse\",\"params\":\"retrofit2.Response\"},{\"mode\":2,\"className\":\"com.wangc.bill.manager.y3\",\"methodName\":\"b\",\"params\":\"androidx.appcompat.app.AppCompatActivity,java.lang.String,java.lang.String\"}]",
+        "id": 258
+    },
+    {
+        "packageName": "com.richtech.spacevpn",
+        "appName": "SpaceVPN",
+        "versionName": "2.1.7.8",
+        "description": "解锁会员，去内/外更新",
+        "configs": "[{\"className\":\"com.richtech.spacevpn.manager.DeviceManager\",\"methodName\":\"isExpired\",\"resultValues\":\"false\"},{\"className\":\"com.richtech.spacevpn.eventbus.UpgradeEvent\",\"methodName\":\"isNeedUpgrade\",\"resultValues\":\"false\"},{\"className\":\"com.google.android.play.core.appupdate.internal.zzab\",\"methodName\":\"zza\",\"params\":\"android.content.Context\",\"resultValues\":\"false\"}]",
+        "id": 262
+    },
+    {
+        "packageName": "com.digibites.accubattery",
+        "appName": "AccuBattery",
+        "versionName": "2.1.2",
+        "description": "解锁AccuBattery Pro",
+        "configs": "[{\"className\":\"ab.Ȉł\",\"methodName\":\"łÎ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 266
+    },
+    {
+        "packageName": "com.catchingnow.np",
+        "appName": "通知滤盒",
+        "versionName": "3.2.3",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"s9.d\",\"methodName\":\"a\",\"resultValues\":\"-4787107805000l\"},{\"className\":\"b9.l0\",\"methodName\":\"A0\",\"params\":\"I\",\"resultValues\":\"true\"},{\"className\":\"s9.c\",\"methodName\":\"b\",\"params\":\"J\",\"resultValues\":\"true\"}]",
+        "id": 268
+    },
+    {
+        "packageName": "com.mubu.app",
+        "appName": "幕布",
+        "versionName": "2.30.3",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isLifetimeVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 270
+    },
+    {
+        "packageName": "lozn.hookui",
+        "appName": "HookUI",
+        "versionName": "1.9.0",
+        "description": "解锁赞助VIP无限制版",
+        "configs": "[{\"className\":\"lozn.hookui.utils.o\",\"methodName\":\"w\",\"params\":\"java.lang.String\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 273
+    },
+    {
+        "packageName": "com.paget96.batteryguru",
+        "appName": "Battery Guru",
+        "versionName": "2.2.4",
+        "description": "解锁订阅",
+        "configs": "[{\"mode\":1,\"className\":\"utils.AdUtils\",\"methodName\":\"setIsSubscribed\",\"params\":\"Z\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 275
+    },
+    {
+        "packageName": "com.bilibili.app.in",
+        "appName": "bilibili",
+        "versionName": "3.17.0",
+        "description": "解锁会员画质",
+        "configs": "[{\"className\":\"com.bilibili.lib.accountinfo.model.VipUserInfo\",\"methodName\":\"isEffectiveVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bilibili.lib.accountinfo.model.VipExtraUserInfo\",\"methodName\":\"isEffectiveVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 278
+    },
+    {
+        "packageName": "com.kugou.android.lite",
+        "appName": "酷狗概念版",
+        "versionName": "2.4.6",
+        "description": "去更新",
+        "configs": "[{\"className\":\"com.kugou.android.update.c\",\"methodName\":\"d\",\"resultValues\":\"null\",\"hookPoint\":\"after\"}]",
+        "id": 279
     }
 ]

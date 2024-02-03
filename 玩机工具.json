@@ -42,10 +42,10 @@
     {
         "packageName": "com.didjdk.adbhelper",
         "appName": "甲壳虫ADB助手",
-        "versionName": "1.3.0",
+        "versionName": "1.3.1",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
-        "id": 28
+        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 271
     },
     {
         "packageName": "moe.shizuku.redirectstorage",
@@ -78,5 +78,37 @@
         "description": "解锁专业版",
         "configs": "[{\"className\":\"o0000ooO.o0OOO0o\",\"methodName\":\"OooO0o\",\"params\":\"android.content.Context,Z\",\"resultValues\":\"true\"}]",
         "id": 236
+    },
+    {
+        "packageName": "com.digibites.accubattery",
+        "appName": "AccuBattery",
+        "versionName": "2.1.2",
+        "description": "解锁AccuBattery Pro",
+        "configs": "[{\"className\":\"ab.Ȉł\",\"methodName\":\"łÎ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 266
+    },
+    {
+        "packageName": "com.catchingnow.np",
+        "appName": "通知滤盒",
+        "versionName": "3.2.3",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"s9.d\",\"methodName\":\"a\",\"resultValues\":\"-4787107805000l\"},{\"className\":\"b9.l0\",\"methodName\":\"A0\",\"params\":\"I\",\"resultValues\":\"true\"},{\"className\":\"s9.c\",\"methodName\":\"b\",\"params\":\"J\",\"resultValues\":\"true\"}]",
+        "id": 268
+    },
+    {
+        "packageName": "lozn.hookui",
+        "appName": "HookUI",
+        "versionName": "1.9.0",
+        "description": "解锁赞助VIP无限制版",
+        "configs": "[{\"className\":\"lozn.hookui.utils.o\",\"methodName\":\"w\",\"params\":\"java.lang.String\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 273
+    },
+    {
+        "packageName": "com.paget96.batteryguru",
+        "appName": "Battery Guru",
+        "versionName": "2.2.4",
+        "description": "解锁订阅",
+        "configs": "[{\"mode\":1,\"className\":\"utils.AdUtils\",\"methodName\":\"setIsSubscribed\",\"params\":\"Z\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 275
     }
 ]
