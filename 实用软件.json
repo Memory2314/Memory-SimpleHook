@@ -126,5 +126,21 @@
         "description": "解锁会员",
         "configs": "[{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isLifetimeVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
         "id": 270
+    },
+    {
+        "packageName": "com.spaceship.screen.textcopy",
+        "appName": "Instant Translate",
+        "versionName": "v6.8.0008828",
+        "description": "premium",
+        "configs": "[{\"className\":\"com.spaceship.screen.textcopy.utils.b\",\"methodName\":\"d\",\"params\":\"boolean\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 283
+    },
+    {
+        "packageName": "com.magicalstory.cleaner",
+        "appName": "安卓清理君",
+        "versionName": "3.8.0",
+        "description": "免登录，解锁高级版",
+        "configs": "[{\"className\":\"cb.n0\",\"methodName\":\"d\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"e\",\"params\":\"java.lang.String,J\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"}]",
+        "id": 319
     }
 ]

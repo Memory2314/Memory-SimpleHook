@@ -130,10 +130,10 @@
     {
         "packageName": "eu.thedarken.sdm",
         "appName": "SD Maid",
-        "versionName": "5.5.7",
+        "versionName": "5.6.3",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"eu.thedarken.sdm.main.core.upgrades.account.a\",\"methodName\":\"c\",\"resultValues\":\"true\"}]",
-        "id": 53
+        "configs": "[{\"className\":\"eu.thedarken.sdm.main.core.upgrades.account.AccountData\",\"methodName\":\"c\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 302
     },
     {
         "packageName": "com.funny.translation",
@@ -251,10 +251,10 @@
     {
         "packageName": "github.tornaco.android.thanos",
         "appName": "Thanox",
-        "versionName": "5.0.3-prc",
-        "description": "解锁高级版 5.0.3-prc",
-        "configs": "[{\"className\":\"fortuitous.ny1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"fortuitous.pg3\",\"methodName\":\"i0\",\"params\":\"android.app.Application\"}]",
-        "id": 242
+        "versionName": "5.0.5-prc",
+        "description": "5.0.5-prc",
+        "configs": "[{\"className\":\"fortuitous.i32\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.f32\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]",
+        "id": 281
     },
     {
         "packageName": "cn.trinea.android.developertools",
@@ -331,10 +331,10 @@
     {
         "packageName": "com.paget96.batteryguru",
         "appName": "Battery Guru",
-        "versionName": "2.2.4",
+        "versionName": "2.2.5",
         "description": "解锁订阅",
-        "configs": "[{\"mode\":1,\"className\":\"utils.AdUtils\",\"methodName\":\"setIsSubscribed\",\"params\":\"Z\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 275
+        "configs": "[{\"mode\":1,\"className\":\"utils.AdUtils\",\"methodName\":\"access$setIsSubscribed\",\"params\":\"utils.AdUtils,Z\",\"resultValues\":\",true\",\"hookPoint\":\"after\"}]",
+        "id": 305
     },
     {
         "packageName": "com.bilibili.app.in",
@@ -351,5 +351,53 @@
         "description": "去更新",
         "configs": "[{\"className\":\"com.kugou.android.update.c\",\"methodName\":\"d\",\"resultValues\":\"null\",\"hookPoint\":\"after\"}]",
         "id": 279
+    },
+    {
+        "packageName": "tornaco.apps.shortx",
+        "appName": "ShortX",
+        "versionName": "1.0.0-beta5-125-9622d10-main-prc",
+        "description": "解锁高级版",
+        "configs": "[{\"mode\":1,\"className\":\"shortx.fl7\",\"methodName\":\"<init>\",\"params\":\"Z,java.lang.String\",\"resultValues\":\"true,\",\"hookPoint\":\"after\"}]",
+        "id": 300
+    },
+    {
+        "packageName": "com.spaceship.screen.textcopy",
+        "appName": "Instant Translate",
+        "versionName": "v6.8.0008828",
+        "description": "premium",
+        "configs": "[{\"className\":\"com.spaceship.screen.textcopy.utils.b\",\"methodName\":\"d\",\"params\":\"boolean\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 283
+    },
+    {
+        "packageName": "player.normal.np",
+        "appName": "NP管理器",
+        "versionName": "3.0.62",
+        "description": "去更新",
+        "configs": "[{\"mode\":1,\"className\":\"j$.lang.⁣⁣⁣⁣⁣⁠⁤⁠⁤⁤⁣⁣⁣⁣⁤⁤⁣⁣⁣⁣⁣⁠⁠⁠⁠⁤⁠⁤⁣\",\"methodName\":\"⁣⁤⁠⁠⁠⁠⁣⁣⁣⁠⁠⁤⁠⁣⁠⁣⁤⁣⁤⁠⁣⁤⁠⁠⁠⁣⁠⁠⁤⁠⁣\",\"params\":\"java.lang.Object\",\"resultValues\":\"versionCode\\\":20221203\",\"hookPoint\":\"after\"}]",
+        "id": 325
+    },
+    {
+        "packageName": "com.buak.Link2SD",
+        "appName": "Link2SD",
+        "versionName": "4.3.4",
+        "description": "解锁加强版",
+        "configs": "[{\"className\":\"f\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.buak.Link2SD.Link2SD\",\"methodName\":\"w\",\"params\":\"com.buak.Link2S,D.Link2S,D\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"q$a\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 317
+    },
+    {
+        "packageName": "ru.kslabs.ksweb",
+        "appName": "KSWEB",
+        "versionName": "3.988",
+        "description": "解锁KSWEB PRO",
+        "configs": "[{\"className\":\"c5.i\",\"methodName\":\"m\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 318
+    },
+    {
+        "packageName": "com.magicalstory.cleaner",
+        "appName": "安卓清理君",
+        "versionName": "3.8.0",
+        "description": "免登录，解锁高级版",
+        "configs": "[{\"className\":\"cb.n0\",\"methodName\":\"d\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"e\",\"params\":\"java.lang.String,J\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"}]",
+        "id": 319
     }
 ]

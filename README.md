@@ -106,6 +106,10 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 通知滤盒       | 解锁高级版           |
 | HookUI        | 解锁捐赠VIP无限制版  |
 | Battery Guru    | 解锁订阅            |
+| ShortX          | 解锁高级版          |
+| NP管理器        | 去更新              |
+| Link2SD         | 解锁加强版          |
+| KSWEB          | 解锁KSWEB PRO    |
 
 </details>
 
@@ -130,6 +134,8 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 小X分身           | 无限制            |
 | 一木记账          | 解锁永久会员      |
 | 幕布              | 解锁会员          |
+| Instant Translate   | premium          |
+| 安卓清理君         | 免登录，解锁高级版 |
 
 </details>
 
