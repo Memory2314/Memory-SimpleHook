@@ -19,11 +19,6 @@
 <details>
 <summary>点击展开折叠的内容</summary>
 
-总
-```
-https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/config.json
-```
-
 科学上网
 ```
 https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/科学上网.json
