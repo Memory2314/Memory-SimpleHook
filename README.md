@@ -149,6 +149,10 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 
 > 推荐使用模块设置中的 LSPosed协同配置
 
+# 更新日志
+
+- [UPDATE](/UPDATE.md)
+
 ## 感谢
 
 > Memory-SimpleHook 使用了以下项目的部分或全部内容，感谢这些项目的开发者提供的大力支持。
