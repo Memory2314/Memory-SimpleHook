@@ -33,3 +33,17 @@
 - Thanox 5.0.5-prc
 - SD Maid 5.6.3
 - Battery Guru 2.2.5
+
+# 2024/03/10
+## 新增
+- 远离手机
+- 不做手机控
+- 奇妙应用
+- 滴答清单
+- 一木清单
+- 一刻日记
+- Fake Location
+- 团团分身
+- To-do List
+## 适配
+- Thanox 5.0.6-prc

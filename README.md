@@ -105,6 +105,7 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | NP管理器        | 去更新              |
 | Link2SD         | 解锁加强版          |
 | KSWEB          | 解锁KSWEB PRO    |
+| Fake Location    | 解锁专业版          |
 
 </details>
 
@@ -113,7 +114,7 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 <summary>点击展开折叠的内容</summary>
 
 | 应用名称         | 描述               |
-|-----------------|--------------------|
+|-----------------|-------------------------|
 | 屏幕翻译           | 解锁订阅           |
 | Via              | 解除“该站点不支持嗅探”限制 |
 | 小猿搜题           | 解锁会员           |
@@ -126,11 +127,19 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 快乐下载           | 解锁永久会员       |
 | 译站              | 解锁订阅           |
 | 醒图              | 解锁会员           |
-| 小X分身           | 无限制            |
-| 一木记账          | 解锁永久会员      |
-| 幕布              | 解锁会员          |
-| Instant Translate   | premium          |
+| 小X分身           | 无限制             |
+| 一木记账          | 解锁永久会员       |
+| 幕布              | 解锁会员           |
+| Instant Translate   | premium           |
 | 安卓清理君         | 免登录，解锁高级版 |
+| 远离手机           | 解锁永久会员       |
+| 不做手机控         | 解锁高级会员       |
+| 奇妙应用           | 免投币查看附件     |
+| 滴答清单           | 解锁会员           |
+| 一木清单           | 解锁永久会员       |
+| 一刻日记           | 解锁永久会员       |
+| 团团分身           | 解锁永久会员       |
+| To-do List         | 解锁专业版         |
 
 </details>
 

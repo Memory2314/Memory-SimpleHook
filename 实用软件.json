@@ -142,5 +142,69 @@
         "description": "免登录，解锁高级版",
         "configs": "[{\"className\":\"cb.n0\",\"methodName\":\"d\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"e\",\"params\":\"java.lang.String,J\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"}]",
         "id": 319
+    },
+    {
+        "packageName": "com.lijianqiang12.silent",
+        "appName": "远离手机",
+        "versionName": "4.9.9.6.4",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.lijianqiang12.silent.data.model.net.api.RefreshStateResponse\",\"methodName\":\"getVipState\",\"resultValues\":\"2\",\"hookPoint\":\"after\"}]",
+        "id": 329
+    },
+    {
+        "packageName": "com.pl.getaway.getaway",
+        "appName": "不做手机控",
+        "versionName": "5.9.24.4",
+        "description": "解锁高级会员",
+        "configs": "[{\"className\":\"com.pl.getaway.util.m\",\"methodName\":\"p\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 330
+    },
+    {
+        "packageName": "com.magicalstory.AppStore",
+        "appName": "奇妙应用",
+        "versionName": "1.1.3",
+        "description": "免投币查看附件",
+        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.editor\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]",
+        "id": 334
+    },
+    {
+        "packageName": "cn.ticktick.task",
+        "appName": "滴答清单",
+        "versionName": "7.1.2.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.ticktick.task.data.User\",\"methodName\":\"isPro\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"bd.c\",\"methodName\":\"h\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]",
+        "id": 335
+    },
+    {
+        "packageName": "com.wangc.todolist",
+        "appName": "一木清单",
+        "versionName": "2.0.6",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.wangc.todolist.database.entity.User\",\"methodName\":\"getMemberType\",\"resultValues\":\"PERMANENT\",\"hookPoint\":\"after\"}]",
+        "id": 336
+    },
+    {
+        "packageName": "com.byteof.weatherwy",
+        "appName": "一刻日记",
+        "versionName": "1.8.9",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"o008O8.〇o〇0O〇0O\",\"methodName\":\"〇oO\",\"params\":\"com.byteof.weatherwy.bean.User\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.byteof.weatherwy.bean.User\",\"methodName\":\"getVipType\",\"resultValues\":\"3\",\"hookPoint\":\"after\"}]",
+        "id": 337
+    },
+    {
+        "packageName": "com.jy.x.separation.manager",
+        "appName": "团团分身",
+        "versionName": "2.0.6",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"ʻˋʻˆ\",\"methodName\":\"יʽʼ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"ʽʽˊʼ\",\"methodName\":\"ʿʽʼ\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ʽʽˊʼ\",\"methodName\":\"ˋʽʼ\",\"resultValues\":\"4092599349000L\",\"hookPoint\":\"after\"},{\"mode\":3,\"fieldName\":\"ʼʽˈ\",\"fieldClassName\":\"com.jy.x.separation.manager.App\",\"resultValues\":\"false\"}]",
+        "id": 339
+    },
+    {
+        "packageName": "todolist.scheduleplanner.dailyplanner.todo.reminders",
+        "appName": "To-do List",
+        "versionName": "1.02.39.0117.1",
+        "description": "解锁专业版",
+        "configs": "[{\"className\":\"l2.a\",\"methodName\":\"z\",\"params\":\"com.betterapp.googlebilling.SubsState\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 344
     }
 ]

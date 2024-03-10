@@ -66,10 +66,10 @@
     {
         "packageName": "github.tornaco.android.thanos",
         "appName": "Thanox",
-        "versionName": "5.0.5-prc",
-        "description": "解锁高级版 5.0.5-prc",
-        "configs": "[{\"className\":\"fortuitous.i32\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.f32\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]",
-        "id": 281
+        "versionName": "5.0.6-prc",
+        "description": "解锁高级版 5.0.6-prc",
+        "configs": "[{\"className\":\"fortuitous.zz1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.wz1\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]",
+        "id": 343
     },
     {
         "packageName": "cn.trinea.android.developertools",
@@ -142,5 +142,13 @@
         "description": "解锁KSWEB PRO",
         "configs": "[{\"className\":\"c5.i\",\"methodName\":\"m\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
         "id": 318
+    },
+    {
+        "packageName": "com.lerist.fakelocation",
+        "appName": "Fake Location",
+        "versionName": "1.3.2.2",
+        "description": "解锁专业版",
+        "configs": "[{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getProindate\",\"resultValues\":\"113135932800000l\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getType\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ؠ.֏\",\"methodName\":\"ޅ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 338
     }
 ]
