@@ -4,279 +4,244 @@
         "appName": "Memory-SimpleHook  实用软件",
         "versionName": "0.0.1",
         "description": "永久免费，禁止倒卖",
-        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
-        "id": 102
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]"
     },
     {
         "packageName": "com.newmg.yurao.pro",
         "appName": "屏幕翻译",
         "versionName": "2.5.0",
         "description": "解锁订阅",
-        "configs": "[{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"i\",\"resultValues\":\"true\"},{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"m\",\"resultValues\":\"true\"}]",
-        "id": 95
+        "configs": "[{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"i\",\"resultValues\":\"true\"},{\"className\":\"com.mg.yurao.utils.d\",\"methodName\":\"m\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "mark.via",
         "appName": "Via",
         "versionName": "5.2.0",
         "description": "解除“该站点不支持嗅探”限制",
-        "configs": "[{\"className\":\"h.a.u.p.c\",\"methodName\":\"m\",\"params\":\"java.lang.String\",\"resultValues\":\"false\"}]",
-        "id": 82
+        "configs": "[{\"className\":\"h.a.u.p.c\",\"methodName\":\"m\",\"params\":\"java.lang.String\",\"resultValues\":\"false\"}]"
     },
     {
         "packageName": "com.fenbi.android.solar",
         "appName": "小猿搜题",
         "versionName": "11.45.1",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"com.fenbi.android.leo.webapp.VipPaidBean\",\"methodName\":\"isVipPaidSuccess\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.component.comment.vo.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.yuantiku.android.common.comment.data.Comment$InnerUser\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"getExpireTime\",\"resultValues\":\"113135932800l\"}]",
-        "id": 77
+        "configs": "[{\"className\":\"com.fenbi.android.leo.webapp.VipPaidBean\",\"methodName\":\"isVipPaidSuccess\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.component.comment.vo.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.yuantiku.android.common.comment.data.Comment$InnerUser\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.fenbi.android.solar.data.VipUserVO\",\"methodName\":\"getExpireTime\",\"resultValues\":\"113135932800l\"}]"
     },
     {
         "packageName": "com.mylrc.mymusic",
         "appName": "歌词适配",
         "versionName": "4.1.4",
         "description": "去更新",
-        "configs": "[{\"mode\":2,\"className\":\"q0.k\",\"methodName\":\"o\"}]",
-        "id": 75
+        "configs": "[{\"mode\":2,\"className\":\"q0.k\",\"methodName\":\"o\"}]"
     },
     {
         "packageName": "com.mutangtech.qianji",
         "appName": "钱迹",
         "versionName": "3.2.1.13",
         "description": "解锁终身会员",
-        "configs": "[{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getVipType\",\"resultValues\":\"100\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegDayCount\",\"resultValues\":\"5201314\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegTimeInSec\",\"resultValues\":\"113135932800l\"}]",
-        "id": 72
+        "configs": "[{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getVipType\",\"resultValues\":\"100\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegDayCount\",\"resultValues\":\"5201314\"},{\"className\":\"com.mutangtech.qianji.data.model.User\",\"methodName\":\"getRegTimeInSec\",\"resultValues\":\"113135932800l\"}]"
     },
     {
         "packageName": "com.magir.aiart",
         "appName": "Magir",
         "versionName": "5.0.0",
         "description": "解锁Pro版",
-        "configs": "[{\"className\":\"pandajoy.jc.b\",\"methodName\":\"u\",\"params\":\"java.lang.String,Z\",\"resultValues\":\"true\"}]",
-        "id": 69
+        "configs": "[{\"className\":\"pandajoy.jc.b\",\"methodName\":\"u\",\"params\":\"java.lang.String,Z\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "me.mapleaf.leafwidget",
         "appName": "一叶微件",
         "versionName": "1.1.1",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"q5.s\",\"methodName\":\"isPro\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"isExpire\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"getProType\",\"resultValues\":\"true\",\"enable\":false}]",
-        "id": 67
+        "configs": "[{\"className\":\"q5.s\",\"methodName\":\"isPro\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"isExpire\",\"resultValues\":\"true\"},{\"className\":\"q5.s\",\"methodName\":\"getProType\",\"resultValues\":\"true\",\"enable\":false}]"
     },
     {
         "packageName": "me.mapleaf.calendar",
         "appName": "一叶日历",
         "versionName": "1.9.1",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"l7.d\",\"methodName\":\"getIsPro\",\"resultValues\":\"true\"}]",
-        "id": 66
+        "configs": "[{\"className\":\"l7.d\",\"methodName\":\"getIsPro\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "bitpit.launcher",
         "appName": "Niagara Launcher",
         "versionName": "1.10.6",
         "description": "解锁Niagara Launcher Pro",
-        "configs": "[{\"className\":\"b.uauPzdjbSmHYY5\",\"methodName\":\"FemyFMbfmLrWu0N\",\"resultValues\":\"true\"},{\"mode\":1,\"className\":\"b.f1955MGKDTM\",\"methodName\":\"QohvyaI5BRnVdXzfCob7XkE1lWd\",\"params\":\"I,Z\",\"resultValues\":\"114514,true\"}]",
-        "id": 60
+        "configs": "[{\"className\":\"b.uauPzdjbSmHYY5\",\"methodName\":\"FemyFMbfmLrWu0N\",\"resultValues\":\"true\"},{\"mode\":1,\"className\":\"b.f1955MGKDTM\",\"methodName\":\"QohvyaI5BRnVdXzfCob7XkE1lWd\",\"params\":\"I,Z\",\"resultValues\":\"114514,true\"}]"
     },
     {
         "packageName": "com.happy.download",
         "appName": "快乐下载",
         "versionName": "1.20",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVip\",\"resultValues\":\"94\"},{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVipType\",\"resultValues\":\"永久会员\"}]",
-        "id": 59
+        "configs": "[{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVip\",\"resultValues\":\"94\"},{\"className\":\"com.one.downloadtools.ui.user.m.UserInfo\",\"methodName\":\"getVipType\",\"resultValues\":\"永久会员\"}]"
     },
     {
         "packageName": "com.funny.translation",
         "appName": "译站",
         "versionName": "2.6.9",
         "description": "解锁会员，解锁同时选择引擎数量上限",
-        "configs": "[{\"className\":\"com.funny.translation.AppConfig\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.funny.translation.Consts\",\"methodName\":\"getMAX_SELECT_ENGINES\",\"resultValues\":\"99\"}]",
-        "id": 40
+        "configs": "[{\"className\":\"com.funny.translation.AppConfig\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.funny.translation.Consts\",\"methodName\":\"getMAX_SELECT_ENGINES\",\"resultValues\":\"99\"}]"
     },
     {
         "packageName": "com.xt.retouch",
         "appName": "醒图",
         "versionName": "9.0.0",
         "description": "解锁会员",
-        "configs": "[{\"mode\":3,\"fieldName\":\"f\",\"fieldClassName\":\"com.xt.retouch.subscribe.api.b.d\",\"resultValues\":\"true\"}]",
-        "id": 249
+        "configs": "[{\"mode\":3,\"fieldName\":\"f\",\"fieldClassName\":\"com.xt.retouch.subscribe.api.b.d\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "com.bly.dkplat",
         "appName": "小X分身",
         "versionName": "19.2",
         "description": "无限制",
-        "configs": "[{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"q\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"c\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"G\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.utils.StringUtils\",\"methodName\":\"getExpiredString\",\"params\":\"J\",\"resultValues\":\"无限制\",\"hookPoint\":\"after\"}]",
-        "id": 27
+        "configs": "[{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"q\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"c\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.a.c\",\"methodName\":\"G\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bly.dkplat.utils.StringUtils\",\"methodName\":\"getExpiredString\",\"params\":\"J\",\"resultValues\":\"无限制\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.wangc.bill",
         "appName": "一木记账",
         "versionName": "v5.5.7",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"getVipType\",\"resultValues\":\"2\"},{\"mode\":2,\"className\":\"com.wangc.bill.activity.setting.BackupActivity$b\",\"methodName\":\"onResponse\",\"params\":\"retrofit2.Response\"},{\"mode\":2,\"className\":\"com.wangc.bill.manager.y3\",\"methodName\":\"b\",\"params\":\"androidx.appcompat.app.AppCompatActivity,java.lang.String,java.lang.String\"}]",
-        "id": 258
+        "configs": "[{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\"},{\"className\":\"com.wangc.bill.http.entity.User\",\"methodName\":\"getVipType\",\"resultValues\":\"2\"},{\"mode\":2,\"className\":\"com.wangc.bill.activity.setting.BackupActivity$b\",\"methodName\":\"onResponse\",\"params\":\"retrofit2.Response\"},{\"mode\":2,\"className\":\"com.wangc.bill.manager.y3\",\"methodName\":\"b\",\"params\":\"androidx.appcompat.app.AppCompatActivity,java.lang.String,java.lang.String\"}]"
     },
     {
         "packageName": "com.mubu.app",
         "appName": "幕布",
         "versionName": "2.30.3",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isLifetimeVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 270
+        "configs": "[{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.mubu.app.contract.AccountService$Account\",\"methodName\":\"isLifetimeVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.spaceship.screen.textcopy",
         "appName": "Instant Translate",
         "versionName": "v6.8.0008828",
         "description": "premium",
-        "configs": "[{\"className\":\"com.spaceship.screen.textcopy.utils.b\",\"methodName\":\"d\",\"params\":\"boolean\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 283
+        "configs": "[{\"className\":\"com.spaceship.screen.textcopy.utils.b\",\"methodName\":\"d\",\"params\":\"boolean\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.magicalstory.cleaner",
         "appName": "安卓清理君",
         "versionName": "3.8.0",
         "description": "免登录，解锁高级版",
-        "configs": "[{\"className\":\"cb.n0\",\"methodName\":\"d\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"e\",\"params\":\"java.lang.String,J\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"}]",
-        "id": 319
+        "configs": "[{\"className\":\"cb.n0\",\"methodName\":\"d\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"e\",\"params\":\"java.lang.String,J\",\"resultValues\":\"4787107805000l\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.lijianqiang12.silent",
         "appName": "远离手机",
         "versionName": "4.9.9.6.4",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"com.lijianqiang12.silent.data.model.net.api.RefreshStateResponse\",\"methodName\":\"getVipState\",\"resultValues\":\"2\",\"hookPoint\":\"after\"}]",
-        "id": 329
+        "configs": "[{\"className\":\"com.lijianqiang12.silent.data.model.net.api.RefreshStateResponse\",\"methodName\":\"getVipState\",\"resultValues\":\"2\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.pl.getaway.getaway",
         "appName": "不做手机控",
         "versionName": "5.9.24.4",
         "description": "解锁高级会员",
-        "configs": "[{\"className\":\"com.pl.getaway.util.m\",\"methodName\":\"p\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 330
+        "configs": "[{\"className\":\"com.pl.getaway.util.m\",\"methodName\":\"p\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.magicalstory.AppStore",
         "appName": "奇妙应用",
         "versionName": "1.1.3",
         "description": "免投币查看附件",
-        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.editor\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]",
-        "id": 334
+        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.editor\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "cn.ticktick.task",
         "appName": "滴答清单",
         "versionName": "7.1.2.1",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"com.ticktick.task.data.User\",\"methodName\":\"isPro\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"bd.c\",\"methodName\":\"h\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]",
-        "id": 335
+        "configs": "[{\"className\":\"com.ticktick.task.data.User\",\"methodName\":\"isPro\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"bd.c\",\"methodName\":\"h\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.wangc.todolist",
         "appName": "一木清单",
         "versionName": "2.0.6",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"com.wangc.todolist.database.entity.User\",\"methodName\":\"getMemberType\",\"resultValues\":\"PERMANENT\",\"hookPoint\":\"after\"}]",
-        "id": 336
+        "configs": "[{\"className\":\"com.wangc.todolist.database.entity.User\",\"methodName\":\"getMemberType\",\"resultValues\":\"PERMANENT\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.byteof.weatherwy",
         "appName": "一刻日记",
         "versionName": "1.8.9",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"o008O8.〇o〇0O〇0O\",\"methodName\":\"〇oO\",\"params\":\"com.byteof.weatherwy.bean.User\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.byteof.weatherwy.bean.User\",\"methodName\":\"getVipType\",\"resultValues\":\"3\",\"hookPoint\":\"after\"}]",
-        "id": 337
+        "configs": "[{\"className\":\"o008O8.〇o〇0O〇0O\",\"methodName\":\"〇oO\",\"params\":\"com.byteof.weatherwy.bean.User\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.byteof.weatherwy.bean.User\",\"methodName\":\"getVipType\",\"resultValues\":\"3\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.jy.x.separation.manager",
         "appName": "团团分身",
         "versionName": "2.0.6",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"ʻˋʻˆ\",\"methodName\":\"יʽʼ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"ʽʽˊʼ\",\"methodName\":\"ʿʽʼ\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ʽʽˊʼ\",\"methodName\":\"ˋʽʼ\",\"resultValues\":\"4092599349000L\",\"hookPoint\":\"after\"},{\"mode\":3,\"fieldName\":\"ʼʽˈ\",\"fieldClassName\":\"com.jy.x.separation.manager.App\",\"resultValues\":\"false\"}]",
-        "id": 339
+        "configs": "[{\"className\":\"ʻˋʻˆ\",\"methodName\":\"יʽʼ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"ʽʽˊʼ\",\"methodName\":\"ʿʽʼ\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ʽʽˊʼ\",\"methodName\":\"ˋʽʼ\",\"resultValues\":\"4092599349000L\",\"hookPoint\":\"after\"},{\"mode\":3,\"fieldName\":\"ʼʽˈ\",\"fieldClassName\":\"com.jy.x.separation.manager.App\",\"resultValues\":\"false\"}]"
     },
     {
         "packageName": "todolist.scheduleplanner.dailyplanner.todo.reminders",
         "appName": "To-do List",
         "versionName": "1.02.39.0117.1",
         "description": "解锁专业版",
-        "configs": "[{\"className\":\"l2.a\",\"methodName\":\"z\",\"params\":\"com.betterapp.googlebilling.SubsState\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 344
+        "configs": "[{\"className\":\"l2.a\",\"methodName\":\"z\",\"params\":\"com.betterapp.googlebilling.SubsState\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.cosmos.tools",
         "appName": "宇宙工具箱",
         "versionName": "2.6.5",
         "description": "解锁终身会员",
-        "configs": "[{\"className\":\"com.cosmos.tools.helper.o00O0OO0\",\"methodName\":\"OooOOo0\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 345
+        "configs": "[{\"className\":\"com.cosmos.tools.helper.o00O0OO0\",\"methodName\":\"OooOOo0\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "hanjie.app.pureweather",
         "appName": "Pure天气",
         "versionName": "8.9.1",
         "description": "移除广告",
-        "configs": "[{\"className\":\"hanjie.app.pureweather.support.a\",\"methodName\":\"a\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]",
-        "id": 346
+        "configs": "[{\"className\":\"hanjie.app.pureweather.support.a\",\"methodName\":\"a\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.alif.ide",
         "appName": "Code Studio",
         "versionName": "3.8",
         "description": "解锁Premium",
-        "configs": "[{\"className\":\"d.d\",\"methodName\":\"F0\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 352
+        "configs": "[{\"className\":\"d.d\",\"methodName\":\"F0\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.gangduo.microbeauty",
         "appName": "微美颜",
         "versionName": "2.3.2",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"thirdparty.json.JsonObjectAgent\",\"methodName\":\"c\",\"params\":\"java.lang.String,I\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"thirdparty.json.JsonObjectAgent\",\"methodName\":\"g\",\"params\":\"java.lang.String\",\"resultValues\":\"113143670061l\",\"hookPoint\":\"after\"},{\"className\":\"com.gangduo.microbeauty.util.UserUtil\",\"methodName\":\"convert\",\"params\":\"J\",\"resultValues\":\"521\",\"hookPoint\":\"after\"}]",
-        "id": 356
+        "configs": "[{\"className\":\"thirdparty.json.JsonObjectAgent\",\"methodName\":\"c\",\"params\":\"java.lang.String,I\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"thirdparty.json.JsonObjectAgent\",\"methodName\":\"g\",\"params\":\"java.lang.String\",\"resultValues\":\"113143670061l\",\"hookPoint\":\"after\"},{\"className\":\"com.gangduo.microbeauty.util.UserUtil\",\"methodName\":\"convert\",\"params\":\"J\",\"resultValues\":\"521\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.hitrolab.audioeditor",
         "appName": "AudioLab",
         "versionName": "1.2.20",
         "description": "解锁AudioLab PRO",
-        "configs": "[{\"className\":\"com.hitrolab.audioeditor.helper.SharedPreferencesClass\",\"methodName\":\"getPurchaseFlag\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 357
+        "configs": "[{\"className\":\"com.hitrolab.audioeditor.helper.SharedPreferencesClass\",\"methodName\":\"getPurchaseFlag\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.lcw.easydownload",
         "appName": "便捷下载",
         "versionName": "12.4.0",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"com.lcw.easydownload.bean.LoginEntity$DataBean$UserBean\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.lcw.easydownload.bean.LoginEntity$DataBean$UserBean\",\"methodName\":\"getVipEndTime\",\"resultValues\":\"1977414154l\",\"hookPoint\":\"after\"}]",
-        "id": 363
+        "configs": "[{\"className\":\"com.lcw.easydownload.bean.LoginEntity$DataBean$UserBean\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.lcw.easydownload.bean.LoginEntity$DataBean$UserBean\",\"methodName\":\"getVipEndTime\",\"resultValues\":\"1977414154l\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "cn.mujiankeji.mbrowser",
         "appName": "M浏览器",
         "versionName": "3.1.6.3",
         "description": "去除内容安全提示",
-        "configs": "[{\"mode\":2,\"className\":\"cn.mbrowser.page.web.WebPage\",\"methodName\":\"showContentSecureTips\",\"hookPoint\":\"after\"}]",
-        "id": 389
+        "configs": "[{\"mode\":2,\"className\":\"cn.mbrowser.page.web.WebPage\",\"methodName\":\"showContentSecureTips\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "bin.mt.plus",
         "appName": "MT管理器",
         "versionName": "2.15.0",
         "description": "解锁本地会员",
-        "configs": "[{\"className\":\"l.ۢۙۘۨ\",\"methodName\":\"۫\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 380
+        "configs": "[{\"className\":\"l.ۢۙۘۨ\",\"methodName\":\"۫\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "calendar.agenda.calendarplanner.agendaplanner",
         "appName": "Good Calendar",
         "versionName": "2.04.02.0314",
         "description": "解锁永久会员",
-        "configs": "[{\"className\":\"com.calendar.aurora.manager.b\",\"methodName\":\"w\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.calendar.aurora.manager.b\",\"methodName\":\"C\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 382
+        "configs": "[{\"className\":\"com.calendar.aurora.manager.b\",\"methodName\":\"w\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.calendar.aurora.manager.b\",\"methodName\":\"C\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     }
 ]

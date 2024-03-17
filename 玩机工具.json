@@ -4,175 +4,153 @@
         "appName": "Memory-SimpleHook  玩机工具",
         "versionName": "0.0.1",
         "description": "永久免费，禁止倒卖",
-        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
-        "id": 102
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]"
     },
     {
         "packageName": "eu.darken.sdmse",
         "appName": "SD Maid SE",
         "versionName": "0.17.0-beta0",
         "description": "解锁高级版",
-        "configs": "[{\"mode\":3,\"fieldName\":\"isPro\",\"fieldClassName\":\"eu.darken.sdmse.common.upgrade.core.UpgradeRepoFoss$Info\",\"resultValues\":\"true\"}]",
-        "id": 58
+        "configs": "[{\"mode\":3,\"fieldName\":\"isPro\",\"fieldClassName\":\"eu.darken.sdmse.common.upgrade.core.UpgradeRepoFoss$Info\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "com.superpaninbros.glng",
         "appName": "GLTools",
         "versionName": "1.0 NG",
         "description": "解锁Premium",
-        "configs": "[{\"className\":\"h.h.a.i.i\",\"methodName\":\"e\",\"resultValues\":\"true\"}]",
-        "id": 54
+        "configs": "[{\"className\":\"h.h.a.i.i\",\"methodName\":\"e\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "eu.thedarken.sdm",
         "appName": "SD Maid",
         "versionName": "5.6.3",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"eu.thedarken.sdm.main.core.upgrades.account.AccountData\",\"methodName\":\"c\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 302
+        "configs": "[{\"className\":\"eu.thedarken.sdm.main.core.upgrades.account.AccountData\",\"methodName\":\"c\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "web1n.stopapp",
         "appName": "小黑屋",
         "versionName": "1.9.18c",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"web1n.stopapp.pq\",\"methodName\":\"do\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]",
-        "id": 38
+        "configs": "[{\"className\":\"web1n.stopapp.pq\",\"methodName\":\"do\",\"params\":\"android.content.Context\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "com.didjdk.adbhelper",
         "appName": "甲壳虫ADB助手",
         "versionName": "1.3.1",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 271
+        "configs": "[{\"className\":\"b.s.m\",\"methodName\":\"J\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "moe.shizuku.redirectstorage",
         "appName": "存储空间隔离",
         "versionName": "8.7.4.r3678.7588f8c7a-arm64-v8a",
         "description": "解锁订阅",
-        "configs": "[{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"没收桌子\",\"params\":\"Z\",\"resultValues\":\"true\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.nb1\",\"methodName\":\"没收门\",\"params\":\"java.lang.String,java.lang.String,java.lang.String\",\"resultValues\":\"笑死，hook出这个鬼东西.\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"前方鱼雷接近\",\"params\":\"Z\",\"resultValues\":\"true\"}]",
-        "id": 25
+        "configs": "[{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"没收桌子\",\"params\":\"Z\",\"resultValues\":\"true\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.nb1\",\"methodName\":\"没收门\",\"params\":\"java.lang.String,java.lang.String,java.lang.String\",\"resultValues\":\"笑死，hook出这个鬼东西.\",\"enable\":false},{\"className\":\"moe.shizuku.redirectstorage.mg0\",\"methodName\":\"前方鱼雷接近\",\"params\":\"Z\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "lumyuan.vab.update.easyship",
         "appName": "一叶孤舟 2",
         "versionName": "1.0.7",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"lumyuan.vab.update.easyship.net.entity.rep.UserData$Data\",\"methodName\":\"getVip\",\"resultValues\":\"true\"}]",
-        "id": 237
+        "configs": "[{\"className\":\"lumyuan.vab.update.easyship.net.entity.rep.UserData$Data\",\"methodName\":\"getVip\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "github.tornaco.android.thanos",
         "appName": "Thanox",
         "versionName": "5.0.6-prc",
         "description": "解锁高级版 5.0.6-prc",
-        "configs": "[{\"className\":\"fortuitous.zz1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.wz1\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]",
-        "id": 343
+        "configs": "[{\"className\":\"fortuitous.zz1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.wz1\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "cn.trinea.android.developertools",
         "appName": "开发助手",
         "versionName": "7.1.0-gp",
         "description": "解锁专业版",
-        "configs": "[{\"className\":\"o0000ooO.o0OOO0o\",\"methodName\":\"OooO0o\",\"params\":\"android.content.Context,Z\",\"resultValues\":\"true\"}]",
-        "id": 236
+        "configs": "[{\"className\":\"o0000ooO.o0OOO0o\",\"methodName\":\"OooO0o\",\"params\":\"android.content.Context,Z\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "com.digibites.accubattery",
         "appName": "AccuBattery",
         "versionName": "2.1.2",
         "description": "解锁AccuBattery Pro",
-        "configs": "[{\"className\":\"ab.Ȉł\",\"methodName\":\"łÎ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 266
+        "configs": "[{\"className\":\"ab.Ȉł\",\"methodName\":\"łÎ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.catchingnow.np",
         "appName": "通知滤盒",
         "versionName": "3.2.3",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"s9.d\",\"methodName\":\"a\",\"resultValues\":\"-4787107805000l\"},{\"className\":\"b9.l0\",\"methodName\":\"A0\",\"params\":\"I\",\"resultValues\":\"true\"},{\"className\":\"s9.c\",\"methodName\":\"b\",\"params\":\"J\",\"resultValues\":\"true\"}]",
-        "id": 268
+        "configs": "[{\"className\":\"s9.d\",\"methodName\":\"a\",\"resultValues\":\"-4787107805000l\"},{\"className\":\"b9.l0\",\"methodName\":\"A0\",\"params\":\"I\",\"resultValues\":\"true\"},{\"className\":\"s9.c\",\"methodName\":\"b\",\"params\":\"J\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "lozn.hookui",
         "appName": "HookUI",
         "versionName": "1.9.0",
         "description": "解锁赞助VIP无限制版",
-        "configs": "[{\"className\":\"lozn.hookui.utils.o\",\"methodName\":\"w\",\"params\":\"java.lang.String\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 273
+        "configs": "[{\"className\":\"lozn.hookui.utils.o\",\"methodName\":\"w\",\"params\":\"java.lang.String\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.paget96.batteryguru",
         "appName": "Battery Guru",
         "versionName": "2.2.5",
         "description": "解锁订阅",
-        "configs": "[{\"mode\":1,\"className\":\"utils.AdUtils\",\"methodName\":\"access$setIsSubscribed\",\"params\":\"utils.AdUtils,Z\",\"resultValues\":\",true\",\"hookPoint\":\"after\"}]",
-        "id": 305
+        "configs": "[{\"mode\":1,\"className\":\"utils.AdUtils\",\"methodName\":\"access$setIsSubscribed\",\"params\":\"utils.AdUtils,Z\",\"resultValues\":\",true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "tornaco.apps.shortx",
         "appName": "ShortX",
         "versionName": "1.0.0-beta5-125-9622d10-main-prc",
         "description": "解锁高级版",
-        "configs": "[{\"mode\":1,\"className\":\"shortx.fl7\",\"methodName\":\"<init>\",\"params\":\"Z,java.lang.String\",\"resultValues\":\"true,\",\"hookPoint\":\"after\"}]",
-        "id": 300
+        "configs": "[{\"mode\":1,\"className\":\"shortx.fl7\",\"methodName\":\"<init>\",\"params\":\"Z,java.lang.String\",\"resultValues\":\"true,\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "player.normal.np",
         "appName": "NP管理器",
         "versionName": "3.0.62",
         "description": "去更新",
-        "configs": "[{\"mode\":1,\"className\":\"j$.lang.⁣⁣⁣⁣⁣⁠⁤⁠⁤⁤⁣⁣⁣⁣⁤⁤⁣⁣⁣⁣⁣⁠⁠⁠⁠⁤⁠⁤⁣\",\"methodName\":\"⁣⁤⁠⁠⁠⁠⁣⁣⁣⁠⁠⁤⁠⁣⁠⁣⁤⁣⁤⁠⁣⁤⁠⁠⁠⁣⁠⁠⁤⁠⁣\",\"params\":\"java.lang.Object\",\"resultValues\":\"versionCode\\\":20221203\",\"hookPoint\":\"after\"}]",
-        "id": 325
+        "configs": "[{\"mode\":1,\"className\":\"j$.lang.⁣⁣⁣⁣⁣⁠⁤⁠⁤⁤⁣⁣⁣⁣⁤⁤⁣⁣⁣⁣⁣⁠⁠⁠⁠⁤⁠⁤⁣\",\"methodName\":\"⁣⁤⁠⁠⁠⁠⁣⁣⁣⁠⁠⁤⁠⁣⁠⁣⁤⁣⁤⁠⁣⁤⁠⁠⁠⁣⁠⁠⁤⁠⁣\",\"params\":\"java.lang.Object\",\"resultValues\":\"versionCode\\\":20221203\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.buak.Link2SD",
         "appName": "Link2SD",
         "versionName": "4.3.4",
         "description": "解锁加强版",
-        "configs": "[{\"className\":\"f\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.buak.Link2SD.Link2SD\",\"methodName\":\"w\",\"params\":\"com.buak.Link2S,D.Link2S,D\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"q$a\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 317
+        "configs": "[{\"className\":\"f\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.buak.Link2SD.Link2SD\",\"methodName\":\"w\",\"params\":\"com.buak.Link2S,D.Link2S,D\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"q$a\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "ru.kslabs.ksweb",
         "appName": "KSWEB",
         "versionName": "3.988",
         "description": "解锁KSWEB PRO",
-        "configs": "[{\"className\":\"c5.i\",\"methodName\":\"m\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 318
+        "configs": "[{\"className\":\"c5.i\",\"methodName\":\"m\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.lerist.fakelocation",
         "appName": "Fake Location",
         "versionName": "1.3.2.2",
         "description": "解锁专业版",
-        "configs": "[{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getProindate\",\"resultValues\":\"113135932800000l\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getType\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ؠ.֏\",\"methodName\":\"ޅ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 338
+        "configs": "[{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getProindate\",\"resultValues\":\"113135932800000l\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getType\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ؠ.֏\",\"methodName\":\"ޅ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.liuzh.deviceinfo",
         "appName": "设备信息",
         "versionName": "v2.9.7.1",
         "description": "解锁PRO版",
-        "configs": "[{\"className\":\"v3.e\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 347
+        "configs": "[{\"className\":\"v3.e\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.sonelli.juicessh",
         "appName": "JuiceSSH",
         "versionName": "3.2.2",
         "description": "解锁专业版\nJuiceSSH主界面 --> 解锁高级版功能 --> 已购买 --> 选择google账号 --> 正在验证购买 --> 提示已验证",
-        "configs": "[{\"className\":\"com.sonelli.oi0\",\"methodName\":\"d\",\"params\":\"java.lang.Object\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 349
+        "configs": "[{\"className\":\"com.sonelli.oi0\",\"methodName\":\"d\",\"params\":\"java.lang.Object\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.catchingnow.icebox",
         "appName": "冰箱 IceBox：自动冻结・省电神器",
         "versionName": "3.25.3 C",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"com.catchingnow.icebox.provider.r1\",\"methodName\":\"O\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 390
+        "configs": "[{\"className\":\"com.catchingnow.icebox.provider.r1\",\"methodName\":\"O\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     }
 ]

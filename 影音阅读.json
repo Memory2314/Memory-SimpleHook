@@ -4,56 +4,49 @@
         "appName": "Memory-SimpleHook  影音阅读",
         "versionName": "0.0.1",
         "description": "永久免费，禁止倒卖",
-        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]",
-        "id": 102
+        "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]"
     },
     {
         "packageName": "com.piyush.music",
         "appName": "Oto Music",
         "versionName": "3.9.5",
         "description": "解锁Oto Music+",
-        "configs": "[{\"className\":\"com.piyush.music.App$OOOo0oOOOo\",\"methodName\":\"o0O0o00000\",\"resultValues\":\"true\"}]",
-        "id": 56
+        "configs": "[{\"className\":\"com.piyush.music.App$OOOo0oOOOo\",\"methodName\":\"o0O0o00000\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "code.name.monkey.retromusic",
         "appName": "Retro Music",
         "versionName": "6.1.0",
         "description": "解锁高级版",
-        "configs": "[{\"className\":\"code.name.monkey.retromusic.App$a\",\"methodName\":\"a\",\"resultValues\":\"true\"}]",
-        "id": 20
+        "configs": "[{\"className\":\"code.name.monkey.retromusic.App$a\",\"methodName\":\"a\",\"resultValues\":\"true\"}]"
     },
     {
         "packageName": "com.kmxs.reader",
         "appName": "七猫免费小说",
         "versionName": "7.3.86",
         "description": "解锁VIP",
-        "configs": "[{\"className\":\"sp0\",\"methodName\":\"i\",\"params\":\"*\",\"resultValues\":\"1s\"},{\"className\":\"com.qimao.qmreader.reader.viewmodel.SingleVipViewModel\",\"methodName\":\"n\",\"params\":\"java.lang.String\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"com.qimao.qmservice.ad.entity.AdDataConfig\",\"methodName\":\"getAdvertiser\"}]",
-        "id": 13
+        "configs": "[{\"className\":\"sp0\",\"methodName\":\"i\",\"params\":\"*\",\"resultValues\":\"1s\"},{\"className\":\"com.qimao.qmreader.reader.viewmodel.SingleVipViewModel\",\"methodName\":\"n\",\"params\":\"java.lang.String\",\"resultValues\":\"true\"},{\"mode\":2,\"className\":\"com.qimao.qmservice.ad.entity.AdDataConfig\",\"methodName\":\"getAdvertiser\"}]"
     },
     {
         "packageName": "com.dragon.read",
         "appName": "番茄免费小说",
         "versionName": "5.8.5.32",
         "description": "解锁会员",
-        "configs": "[{\"mode\":2,\"className\":\"com.dragon.read.widget.m\",\"methodName\":\"a\",\"params\":\"*\"},{\"mode\":2,\"className\":\"com.dragon.read.reader.ad.readflow\",\"methodName\":\"*\",\"params\":\"*\"},{\"mode\":1,\"className\":\"com.dragon.read.user.model.VipInfoModel\",\"methodName\":\"<init>\",\"params\":\"java.lang.String,java.lang.String,java.lang.String,Z,Z,I\",\"resultValues\":\"1893211199s,1s,1s,true,,\"}]",
-        "id": 9
+        "configs": "[{\"mode\":2,\"className\":\"com.dragon.read.widget.m\",\"methodName\":\"a\",\"params\":\"*\"},{\"mode\":2,\"className\":\"com.dragon.read.reader.ad.readflow\",\"methodName\":\"*\",\"params\":\"*\"},{\"mode\":1,\"className\":\"com.dragon.read.user.model.VipInfoModel\",\"methodName\":\"<init>\",\"params\":\"java.lang.String,java.lang.String,java.lang.String,Z,Z,I\",\"resultValues\":\"1893211199s,1s,1s,true,,\"}]"
     },
     {
         "packageName": "com.bilibili.app.in",
         "appName": "bilibili",
         "versionName": "3.17.0",
         "description": "解锁会员画质",
-        "configs": "[{\"className\":\"com.bilibili.lib.accountinfo.model.VipUserInfo\",\"methodName\":\"isEffectiveVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bilibili.lib.accountinfo.model.VipExtraUserInfo\",\"methodName\":\"isEffectiveVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 278
+        "configs": "[{\"className\":\"com.bilibili.lib.accountinfo.model.VipUserInfo\",\"methodName\":\"isEffectiveVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.bilibili.lib.accountinfo.model.VipExtraUserInfo\",\"methodName\":\"isEffectiveVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.kugou.android.lite",
         "appName": "酷狗概念版",
         "versionName": "2.4.6",
         "description": "去更新",
-        "configs": "[{\"className\":\"com.kugou.android.update.c\",\"methodName\":\"d\",\"resultValues\":\"null\",\"hookPoint\":\"after\"}]",
-        "id": 279
+        "configs": "[{\"className\":\"com.kugou.android.update.c\",\"methodName\":\"d\",\"resultValues\":\"null\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.tencent.qqmusic",
@@ -67,7 +60,6 @@
         "appName": "音乐",
         "versionName": "4.16.0.11",
         "description": "免看广告获取时长，去除下载加密",
-        "configs": "[{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"getRemainFreeTime\",\"params\":\"com.tencent.qqmusiclite.freemode.data.dto.Config\",\"resultValues\":\"114514l\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isFreeModeEnableAvailable\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isNoLoginFreeModeEffective\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusic.core.song.SongInfo\",\"methodName\":\"needEncrypt\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]",
-        "id": 388
+        "configs": "[{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"getRemainFreeTime\",\"params\":\"com.tencent.qqmusiclite.freemode.data.dto.Config\",\"resultValues\":\"114514l\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isFreeModeEnableAvailable\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isNoLoginFreeModeEffective\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusic.core.song.SongInfo\",\"methodName\":\"needEncrypt\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]"
     }
 ]
