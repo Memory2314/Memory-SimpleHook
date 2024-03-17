@@ -39,5 +39,21 @@
         "description": "解锁会员，去内/外更新",
         "configs": "[{\"className\":\"com.richtech.spacevpn.manager.DeviceManager\",\"methodName\":\"isExpired\",\"resultValues\":\"false\"},{\"className\":\"com.richtech.spacevpn.eventbus.UpgradeEvent\",\"methodName\":\"isNeedUpgrade\",\"resultValues\":\"false\"},{\"className\":\"com.google.android.play.core.appupdate.internal.zzab\",\"methodName\":\"zza\",\"params\":\"android.content.Context\",\"resultValues\":\"false\"}]",
         "id": 262
+    },
+    {
+        "packageName": "com.vpn.free.hotspot.secure.vpnify",
+        "appName": "vpnify",
+        "versionName": "2.1.6",
+        "description": "解锁Premium",
+        "configs": "[{\"className\":\"vb.g\",\"methodName\":\"f\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 361
+    },
+    {
+        "packageName": "com.x.webshuttle",
+        "appName": "网梭",
+        "versionName": "3.1.0",
+        "description": "解锁VIP",
+        "configs": "[{\"className\":\"q00\",\"methodName\":\"y\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]",
+        "id": 362
     }
 ]

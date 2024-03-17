@@ -47,3 +47,23 @@
 - To-do List
 ## 适配
 - Thanox 5.0.6-prc
+
+# 2024/03/17
+## 新增
+- 宇宙工具箱
+- Pure天气
+- 设备信息
+- JuiceSSH
+- Code Studio
+- 微美颜
+- AudioLab
+- vpnify
+- 网梭
+- 便捷下载
+- M浏览器
+- QQ音乐
+- 小米音乐
+- MT管理器
+- Good Calendar
+- Minecraft
+- 冰箱 IceBox

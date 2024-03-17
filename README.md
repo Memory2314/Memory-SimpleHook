@@ -64,6 +64,8 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 小胖VPN         | 解锁会员线路             |
 | 快连 VPN        | 随机id,切换线路,铂金会员.  |
 | SpaceVPN       | 解锁会员，去更新          |
+| vpnify           | 解锁Premium             |
+| 网梭            | 解锁VIP                  |
 
 </details>
 
@@ -79,6 +81,8 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 番茄免费小说              | 解锁会员      |
 | bilibili                    | 解锁会员画质   |
 | 酷狗概念版                | 去更新         |
+| QQ音乐                  | 解锁调试模式    |
+| 小米音乐                 | 免看广告获取时长，去除下载加密  |
 
 </details>
 
@@ -106,6 +110,9 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | Link2SD         | 解锁加强版          |
 | KSWEB          | 解锁KSWEB PRO    |
 | Fake Location    | 解锁专业版          |
+| 设备信息         | 解锁PRO版          |
+| JuiceSSH         | 解锁专业版          |
+| 冰箱 IceBox      | 解锁高级版           |
 
 </details>
 
@@ -140,6 +147,15 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 一刻日记           | 解锁永久会员       |
 | 团团分身           | 解锁永久会员       |
 | To-do List         | 解锁专业版         |
+| 宇宙工具箱         | 解锁终身会员       |
+| Pure天气           | 移除广告           |
+| Code Studio       | 解锁Premium       |
+| 微美颜             | 解锁永久会员       |
+| AudioLab          | 解锁AudioLab PRO |
+| 便捷下载           | 解锁永久会员       |
+| M浏览器           | 去除内容安全提示    |
+| MT管理器          | 解锁本地会员       |
+| Good Calendar     | 解锁永久会员    |
 
 </details>
 
@@ -152,7 +168,8 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 智能助理            | 破解小部件         |
 | 电量和性能          | 解决MIUI夜间自动清后台 |
 | 王者荣耀            | 伪装机型开启极高(120帧)帧率 |
-|微信                 | 解除语音/视频通话播放视频/语音限制 |
+| 微信                | 解除语音/视频通话播放视频/语音限制 |
+| Minecraft           | 去除购买验证                       |
 
 </details>
 

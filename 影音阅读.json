@@ -54,5 +54,20 @@
         "description": "去更新",
         "configs": "[{\"className\":\"com.kugou.android.update.c\",\"methodName\":\"d\",\"resultValues\":\"null\",\"hookPoint\":\"after\"}]",
         "id": 279
+    },
+    {
+        "packageName": "com.tencent.qqmusic",
+        "appName": "QQ音乐",
+        "versionName": "13.2.0.8",
+        "description": "解锁调试模式\nQQ音乐-我的-设置-关于QQ音乐-连续点击图标-打开调试模式",
+        "configs": "[{\"className\":\"com.tencent.qqmusic.activity.IdentifyingCodeActivity\",\"methodName\":\"r\",\"params\":\"com.tencent.qqmusic.activity.IdentifyingCodeActivity,I\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.miui.player",
+        "appName": "音乐",
+        "versionName": "4.16.0.11",
+        "description": "免看广告获取时长，去除下载加密",
+        "configs": "[{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"getRemainFreeTime\",\"params\":\"com.tencent.qqmusiclite.freemode.data.dto.Config\",\"resultValues\":\"114514l\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isFreeModeEnableAvailable\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isNoLoginFreeModeEffective\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusic.core.song.SongInfo\",\"methodName\":\"needEncrypt\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]",
+        "id": 388
     }
 ]

@@ -38,5 +38,13 @@
         "description": "解除语音/视频通话播放视频/语音限制",
         "configs": "[{\"className\":\"com.tencent.mm.plugin.voip.model.NewVoipMgr$2\",\"methodName\":\"callback\",\"params\":\"com.tencent.mm.sdk.event.IEvent\",\"resultValues\":\"true\"}]",
         "id": 239
+    },
+    {
+        "packageName": "com.mojang.minecraftpe",
+        "appName": "Minecraft",
+        "versionName": "1.20.80.22",
+        "description": "去除购买验证",
+        "configs": "[{\"className\":\"com.googleplay.licensing.ServerManagedPolicy\",\"methodName\":\"allowAccess\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 386
     }
 ]

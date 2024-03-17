@@ -150,5 +150,29 @@
         "description": "解锁专业版",
         "configs": "[{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getProindate\",\"resultValues\":\"113135932800000l\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ރ.ރ.މ\",\"methodName\":\"getType\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"ށ.ރ.ؠ.ؠ.֏\",\"methodName\":\"ޅ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
         "id": 338
+    },
+    {
+        "packageName": "com.liuzh.deviceinfo",
+        "appName": "设备信息",
+        "versionName": "v2.9.7.1",
+        "description": "解锁PRO版",
+        "configs": "[{\"className\":\"v3.e\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 347
+    },
+    {
+        "packageName": "com.sonelli.juicessh",
+        "appName": "JuiceSSH",
+        "versionName": "3.2.2",
+        "description": "解锁专业版\nJuiceSSH主界面 --> 解锁高级版功能 --> 已购买 --> 选择google账号 --> 正在验证购买 --> 提示已验证",
+        "configs": "[{\"className\":\"com.sonelli.oi0\",\"methodName\":\"d\",\"params\":\"java.lang.Object\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 349
+    },
+    {
+        "packageName": "com.catchingnow.icebox",
+        "appName": "冰箱 IceBox：自动冻结・省电神器",
+        "versionName": "3.25.3 C",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"com.catchingnow.icebox.provider.r1\",\"methodName\":\"O\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 390
     }
 ]
