@@ -62,10 +62,23 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 |------------------|---------------------------|
 | Infinity          | 解锁订阅                 |
 | 小胖VPN         | 解锁会员线路             |
-| 快连 VPN        | 随机id,切换线路,铂金会员.  |
+| 快连 VPN        | 通用随机id，铂金会员     |
 | SpaceVPN       | 解锁会员，去更新          |
 | vpnify           | 解锁Premium             |
 | 网梭            | 解锁VIP                  |
+| Ultimate VPN    | 解锁Premium             |
+| Telegram        | 解锁Permium              |
+| Telegram Web   | 解锁Permium              |
+| Nicegram        | 解锁Permium              |
+| Fork Client      | 解锁Permium              |
+| Nekogram       | 解锁Permium              |
+| MDGram        | 解锁Permium              |
+| Turrit           | 解锁Permium              |
+| exteraGram      | 解锁Permium              |
+| Telegram        | 解锁Permium              |
+| Telegram        | 解锁Permium              |
+| Telegram        | 解锁Permium              |
+
 
 </details>
 
@@ -83,6 +96,7 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 酷狗概念版                | 去更新         |
 | QQ音乐                  | 解锁调试模式    |
 | 小米音乐                 | 免看广告获取时长，去除下载加密  |
+| 网易云音乐               | 解锁本地黑胶    |
 
 </details>
 
@@ -99,7 +113,7 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 甲壳虫ADB助手       | 解锁高级版     |
 | 存储空间隔离        | 解锁订阅        |
 | 一叶孤舟 2         | 解锁会员         |
-| Thanox         | 解锁高级版 5.0.3-prc |
+| Thanox         | 解锁高级版          |
 | 开发助手        | 解锁专业版          |
 | AccuBattery    | 解锁AccuBattery Pro |
 | 通知滤盒       | 解锁高级版           |
@@ -153,9 +167,13 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 微美颜             | 解锁永久会员       |
 | AudioLab          | 解锁AudioLab PRO |
 | 便捷下载           | 解锁永久会员       |
-| M浏览器           | 去除内容安全提示    |
+| M浏览器           | 去除内容安全提示   |
 | MT管理器          | 解锁本地会员       |
-| Good Calendar     | 解锁永久会员    |
+| Good Calendar     | 解锁永久会员       |
+| 化学方程式         | 解锁内购           |
+| 驾考精灵          | 解锁至尊会员        |
+| 彩云天气          | 解锁48小时降水，主题 |
+| 流舟文件          | 解锁Pro           |
 
 </details>
 

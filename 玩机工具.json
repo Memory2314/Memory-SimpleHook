@@ -58,9 +58,10 @@
     {
         "packageName": "github.tornaco.android.thanos",
         "appName": "Thanox",
-        "versionName": "5.0.6-prc",
-        "description": "解锁高级版 5.0.6-prc",
-        "configs": "[{\"className\":\"fortuitous.zz1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.wz1\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]"
+        "versionName": "5.0.7-4-87b2c10-prc",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"fortuitous.yz1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.vz1\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]",
+        "id": 415
     },
     {
         "packageName": "cn.trinea.android.developertools",

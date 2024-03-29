@@ -61,5 +61,13 @@
         "versionName": "4.16.0.11",
         "description": "免看广告获取时长，去除下载加密",
         "configs": "[{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"getRemainFreeTime\",\"params\":\"com.tencent.qqmusiclite.freemode.data.dto.Config\",\"resultValues\":\"114514l\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isFreeModeEnableAvailable\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusiclite.freemode.FreeModeManager\",\"methodName\":\"isNoLoginFreeModeEffective\",\"resultValues\":\"true\"},{\"className\":\"com.tencent.qqmusic.core.song.SongInfo\",\"methodName\":\"needEncrypt\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.qqmusic.business.musicdownload.vipdownload.PayProcessor\",\"methodName\":\"encrypt\",\"params\":\"I,[B,I\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.netease.cloudmusic",
+        "appName": "网易云音乐",
+        "versionName": "8.2.61",
+        "description": "解锁本地黑胶",
+        "configs": "[{\"className\":\"com.netease.cloudmusic.meta.virtual.UserPrivilege\",\"methodName\":\"isBlackVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
+        "id": 408
     }
 ]

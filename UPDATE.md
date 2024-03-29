@@ -67,3 +67,26 @@
 - Good Calendar
 - Minecraft
 - 冰箱 IceBox
+
+# 2024/03/30
+## 新增
+- 化学方程式
+- 比例助手
+- Telegram
+- Telegram Web
+- Nicegram
+- Fork Client
+- Nekogram
+- MDGram
+- Turrit
+- exteraGram
+- 网易云音乐
+- Ultimate VPN
+- 驾考精灵
+- 彩云天气
+- 流舟文件
+## 适配
+- Thanox 5.0.7-prc
+- ShortX 1.0.0-beta8-2-14ab281-main-prc
+## 优化
+- 快连VPN 使用通用配置
