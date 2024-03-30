@@ -249,39 +249,34 @@
         "appName": "比例助手",
         "versionName": "1.4",
         "description": "解锁会员",
-        "configs": "[{\"className\":\"o00O00.oo0o0O0\",\"methodName\":\"OooO0o0\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 394
+        "configs": "[{\"className\":\"o00O00.oo0o0O0\",\"methodName\":\"OooO0o0\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.zzu.sxm.chemical",
         "appName": "化学方程式",
         "versionName": "1.1.1.11",
         "description": "解锁内购",
-        "configs": "[{\"className\":\"com.zzu.sxm.chemical.service.manager.g\",\"methodName\":\"Lcom/zzu/sxm/chemical/service/manager/g;->isOpenPay()Z\",\"params\":\"isOpenPay\",\"resultValues\":\"flase\",\"hookPoint\":\"after\"}]",
-        "id": 418
+        "configs": "[{\"className\":\"com.zzu.sxm.chemical.service.manager.g\",\"methodName\":\"Lcom/zzu/sxm/chemical/service/manager/g;->isOpenPay()Z\",\"params\":\"isOpenPay\",\"resultValues\":\"flase\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.iningke.jiakaojl",
         "appName": "驾考精灵",
         "versionName": "1.7.6.1",
         "description": "解锁至尊会员",
-        "configs": "[{\"className\":\"com.iningke.jiakaojl.bean.UserStatusBean\",\"methodName\":\"getUserSubOne\",\"resultValues\":\"2\"},{\"className\":\"com.iningke.jiakaojl.bean.UserStatusBean\",\"methodName\":\"getUserSubFour\",\"resultValues\":\"2\"}]",
-        "id": 153
+        "configs": "[{\"className\":\"com.iningke.jiakaojl.bean.UserStatusBean\",\"methodName\":\"getUserSubOne\",\"resultValues\":\"2\"},{\"className\":\"com.iningke.jiakaojl.bean.UserStatusBean\",\"methodName\":\"getUserSubFour\",\"resultValues\":\"2\"}]"
     },
     {
         "packageName": "com.nowcasting.activity",
         "appName": "彩云天气",
         "versionName": "7.12.1",
         "description": "解锁48小时降水，主题",
-        "configs": "[{\"className\":\"com.nowcasting.entity.UserInfo\",\"methodName\":\"isVIP\",\"params\":\"java.lang.String\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.nowcasting.activity.ThemeActivity\",\"methodName\":\"isCanUse\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 414
+        "configs": "[{\"className\":\"com.nowcasting.entity.UserInfo\",\"methodName\":\"isVIP\",\"params\":\"java.lang.String\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.nowcasting.activity.ThemeActivity\",\"methodName\":\"isCanUse\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.liuzho.file.explorer",
         "appName": "流舟文件",
         "versionName": "v1.7.6",
         "description": "解锁Pro",
-        "configs": "[{\"className\":\"com.liuzho.file.explorer.pro.account.mode.User\",\"methodName\":\"getVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\",\"enable\":false},{\"className\":\"db.f\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 417
+        "configs": "[{\"className\":\"com.liuzho.file.explorer.pro.account.mode.User\",\"methodName\":\"getVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\",\"enable\":false},{\"className\":\"db.f\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     }
 ]

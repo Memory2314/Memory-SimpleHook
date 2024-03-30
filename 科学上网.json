@@ -25,8 +25,7 @@
         "appName": "快连 VPN",
         "versionName": "2.19.0",
         "description": "通用随机id，铂金会员",
-        "configs": "[{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getLevelTitle\",\"resultValues\":\"霍克会员\",\"hookPoint\":\"after\"},{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getUserLevel\",\"resultValues\":\"platinum\",\"hookPoint\":\"after\"},{\"className\":\"android.provider.Settings$System\",\"methodName\":\"getString\",\"params\":\"android.content.ContentResolver,java.lang.String\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef0123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\",\"hookPoint\":\"after\"}]",
-        "id": 17
+        "configs": "[{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getLevelTitle\",\"resultValues\":\"霍克会员\",\"hookPoint\":\"after\"},{\"className\":\"world.letsgo.booster.android.data.bean.Account\",\"methodName\":\"getUserLevel\",\"resultValues\":\"platinum\",\"hookPoint\":\"after\"},{\"className\":\"android.provider.Settings$System\",\"methodName\":\"getString\",\"params\":\"android.content.ContentResolver,java.lang.String\",\"resultValues\":\"{ \\t    \\\"random\\\": \\\"abcdef0123456789\\\", \\t    \\\"length\\\": 16, \\t    \\\"key\\\": \\\"999\\\", \\t    \\\"updateTime\\\": -1, \\t    \\\"defaultValue\\\": \\\"\\\"     }\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.richtech.spacevpn",
@@ -47,8 +46,7 @@
         "appName": "Ultimate VPN",
         "versionName": "1.4.5",
         "description": "解锁Premium",
-        "configs": "[{\"className\":\"com.open.hotspot.vpn.free.util.s\",\"methodName\":\"i\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 410
+        "configs": "[{\"className\":\"com.open.hotspot.vpn.free.util.s\",\"methodName\":\"i\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.x.webshuttle",
@@ -62,63 +60,56 @@
         "appName": "Telegram",
         "versionName": "10.9.2",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 400
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "org.telegram.messenger.web",
         "appName": "Telegram",
         "versionName": "10.9.2",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 402
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "app.nicegram",
         "appName": "Nicegram",
         "versionName": "1.26.0",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.appvillis.feature_nicegram_billing.NicegramBillingHelper\",\"methodName\":\"getUserHasNgPremiumSub\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 401
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.appvillis.feature_nicegram_billing.NicegramBillingHelper\",\"methodName\":\"getUserHasNgPremiumSub\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "org.forkclient.messenger.beta",
         "appName": "Fork Client",
         "versionName": "10.9.1.0",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 403
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "tw.nekomimi.nekogram",
         "appName": "Nekogram",
         "versionName": "10.9.1",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.V\",\"methodName\":\"B\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 407
+        "configs": "[{\"className\":\"org.telegram.messenger.V\",\"methodName\":\"B\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "org.telegram.mdgram",
         "appName": "MDGram",
         "versionName": "10.5.0",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 406
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+        
     },
     {
         "packageName": "org.telegram.group",
         "appName": "Turrit",
         "versionName": "1.3.9.0.0",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 405
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.exteragram.messenger",
         "appName": "exteraGram",
         "versionName": "10.6.4",
         "description": "解锁Permium",
-        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]",
-        "id": 404
+        "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     }
 ]
