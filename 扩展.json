@@ -1,7 +1,7 @@
 [
     {
         "packageName": "io.github.memory.simplehook",
-        "appName": "Memory-SimpleHook  扩展",
+        "appName": "Memory-SimpleHook | 扩展",
         "versionName": "0.0.1",
         "description": "永久免费，禁止倒卖",
         "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]"

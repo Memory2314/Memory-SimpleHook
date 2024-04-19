@@ -1,7 +1,7 @@
 [
     {
         "packageName": "io.github.memory.simplehook",
-        "appName": "Memory-SimpleHook  实用软件",
+        "appName": "Memory-SimpleHook | 实用软件",
         "versionName": "0.0.1",
         "description": "永久免费，禁止倒卖",
         "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]"
@@ -86,9 +86,9 @@
     {
         "packageName": "com.xt.retouch",
         "appName": "醒图",
-        "versionName": "9.0.0",
+        "versionName": "9.5.0",
         "description": "解锁会员",
-        "configs": "[{\"mode\":3,\"fieldName\":\"f\",\"fieldClassName\":\"com.xt.retouch.subscribe.api.b.d\",\"resultValues\":\"true\"}]"
+        "configs": "[{\"className\":\"com.xt.retouch.subscribe.api.b.d\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.xt.retouch.subscribe.api.b.j\",\"methodName\":\"a\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.xt.retouch.subscribe.api.b.j\",\"methodName\":\"g\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.xt.retouch.subscribe.api.b.j\",\"methodName\":\"i\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.bly.dkplat",
@@ -113,9 +113,9 @@
     },
     {
         "packageName": "com.spaceship.screen.textcopy",
-        "appName": "Instant Translate",
+        "appName": "瞬译",
         "versionName": "v6.8.0008828",
-        "description": "premium",
+        "description": "解锁高级版",
         "configs": "[{\"className\":\"com.spaceship.screen.textcopy.utils.b\",\"methodName\":\"d\",\"params\":\"boolean\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
@@ -142,9 +142,9 @@
     {
         "packageName": "com.magicalstory.AppStore",
         "appName": "奇妙应用",
-        "versionName": "1.1.3",
-        "description": "免投币查看附件",
-        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.editor\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"}]"
+        "versionName": "1.1.7",
+        "description": "免投币查看附件，解锁Premium",
+        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.editor\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"},{\"className\":\"p8.b\",\"methodName\":\"t\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"d\",\"params\":\"java.lang.String\",\"resultValues\":\"113143670061000l\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "cn.ticktick.task",
@@ -278,5 +278,113 @@
         "versionName": "v1.7.6",
         "description": "解锁Pro",
         "configs": "[{\"className\":\"com.liuzho.file.explorer.pro.account.mode.User\",\"methodName\":\"getVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\",\"enable\":false},{\"className\":\"db.f\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.clover.daysmatter",
+        "appName": "倒数日",
+        "versionName": "1.19.0",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"com.clover.daysmatter.models.MessagePro\",\"methodName\":\"isPro\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.clover.daysmatter.ooO000\",\"methodName\":\"OooO0o0\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.clover.daysmatter.o00oooOO\",\"methodName\":\"OooOOo0\",\"params\":\"android.app.Application\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.geshi.formatfactory",
+        "appName": "格式工厂",
+        "versionName": "6.0.8",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.mathum.commonlib.network.model.PlaceInfoData\",\"methodName\":\"isIs_vip_expire\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.mg.yurao",
+        "appName": "芒果游戏翻译",
+        "versionName": "2.5.5",
+        "description": "解锁黄金会员",
+        "configs": "[{\"className\":\"com.mg.base.http.leancloud.phone.PhoneUser\",\"methodName\":\"isExpire\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.mg.base.http.leancloud.phone.PhoneUser\",\"methodName\":\"getDate\",\"resultValues\":\"113143670061000l\",\"hookPoint\":\"after\"},{\"className\":\"com.mg.base.http.leancloud.phone.PhoneUser\",\"methodName\":\"getInviteCount\",\"resultValues\":\"88888\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.backdrops.wallpapers",
+        "appName": "Backdrops",
+        "versionName": "5.1.6",
+        "description": "解锁Pro",
+        "configs": "[{\"className\":\"com.backdrops.wallpapers.data.DatabaseObserver\",\"methodName\":\"isPro\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.biku.design",
+        "appName": "青柠设计",
+        "versionName": "2.7.3",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.biku.base.user.UserCache\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.biku.base.user.UserCache\",\"methodName\":\"isPersonalVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.biku.base.user.UserCache\",\"methodName\":\"isPersonalForeverVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.shiyi.toolbox",
+        "appName": "侠客工具箱",
+        "versionName": "5.0.3",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.shiyi.toolbox.manager.VipStoreManager\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.chenai.littletouch",
+        "appName": "小触控",
+        "versionName": "24.03.22",
+        "description": "解锁超级会员",
+        "configs": "[{\"className\":\"com.user.model.WechatModel\",\"methodName\":\"getVipEndTime\",\"resultValues\":\"5555-05-21 13:14\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "io.iftech.android.box",
+        "appName": "小组件盒子",
+        "versionName": "1.27.3",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"io.iftech.android.box.data.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"io.iftech.android.box.data.User\",\"methodName\":\"isLifeVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "cn.soulapp.android",
+        "appName": "Soul",
+        "versionName": "5.19.0",
+        "description": "解除聊天限制，本地超级星人，去除被禁止私聊后的弹窗提示，青少年弹窗，匹配背景音乐，开屏广告",
+        "configs": "[{\"className\":\"cn.soulapp.android.lib.common.bean.ChatLimitModel\",\"methodName\":\"isLimit\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"mode\":3,\"fieldName\":\"status\",\"fieldClassName\":\"cn.soulapp.android.client.component.middle.platform.bean.FuncSwitch\",\"resultValues\":\"true\"},{\"mode\":3,\"fieldName\":\"isTeenageMode\",\"fieldClassName\":\"cn.soulapp.android.client.component.middle.platform.model.api.account.FuncSetting\",\"resultValues\":\"false\"},{\"mode\":3,\"fieldName\":\"needTeenageExam\",\"fieldClassName\":\"cn.soulapp.android.client.component.middle.platform.model.api.account.FuncSetting\",\"resultValues\":\"true\"},{\"mode\":3,\"fieldName\":\"isPopTeenWindow\",\"fieldClassName\":\"cn.soulapp.android.client.component.middle.platform.model.api.account.FuncSetting\",\"resultValues\":\"true\"},{\"className\":\"cn.soulapp.android.client.component.middle.platform.bean.RightInfo\",\"methodName\":\"isSuperVIP\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"cn.soulapp.android.component.planet.matchbg.bean.PlanetBgInfo\",\"methodName\":\"getMusicUrl\",\"resultValues\":\"null\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"cn.soulapp.android.ad.ui.HotAdActivity\",\"methodName\":\"<init>\",\"hookPoint\":\"after\"},{\"className\":\"cn.soulapp.android.lib.photopicker.manager.AlbumConfig\",\"methodName\":\"\\\\AgetMax.*\",\"resultValues\":\"2\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.oter.autoclick",
+        "appName": "自动点击宝",
+        "versionName": "24.03.22",
+        "description": "解锁至尊会员",
+        "configs": "[{\"className\":\"com.user.model.WechatModel\",\"methodName\":\"getVipEndTime\",\"resultValues\":\"5555-05-21 13:14\",\"hookPoint\":\"after\"}]"
+
+    },
+    {
+        "packageName": "com.jsj.autojs",
+        "appName": "自动脚本精灵",
+        "versionName": "24.03.15",
+        "description": "解锁至尊会员",
+        "configs": "[{\"className\":\"com.user.model.WechatModel\",\"methodName\":\"getVipEndTime\",\"resultValues\":\"5555-05-21 13:14\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
+        "appName": "My Diary",
+        "versionName": "1.03.39.0328",
+        "description": "解锁PRO",
+        "configs": "[{\"className\":\"e.a.a.k.a\",\"methodName\":\"c\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"e.a.a.k.a\",\"methodName\":\"H\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.example.raccoon.dialogwidget",
+        "appName": "万象小组件",
+        "versionName": "5.1.10_20240328",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.raccoon.jni.RaccoonComm\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.raccoon.comm.widget.global.app.BaseApp\",\"methodName\":\"Ϳ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.raccoon.jni.RaccoonComm\",\"methodName\":\"isLogin\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.raccoon.jni.RaccoonComm\",\"methodName\":\"validVip\",\"params\":\"com.raccoon.jni.ValidVipCallback\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.naiyoubz.main",
+        "appName": "奶油桌面",
+        "versionName": "3.6.0",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.naiyoubz.main.model.net.AccountModel\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+
+    },
+    {
+        "packageName": "com.shem.qushiuyin",
+        "appName": "万能免费去水印神器",
+        "versionName": "1.0.4",
+        "description": "解锁尊享版",
+        "configs": "[{\"className\":\"com.ahzy.common.data.bean.User\",\"methodName\":\"getMStatus\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.ahzy.common.data.bean.User\",\"methodName\":\"getExpireTime\",\"resultValues\":\"5555-05-20\",\"hookPoint\":\"after\"}]"
+
     }
 ]

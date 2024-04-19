@@ -1,7 +1,7 @@
 [
     {
         "packageName": "io.github.memory.simplehook",
-        "appName": "Memory-SimpleHook  科学上网",
+        "appName": "Memory-SimpleHook | 科学上网",
         "versionName": "0.0.1",
         "description": "永久免费，禁止倒卖",
         "configs": "[{\"mode\":2,\"className\":\"永久免费，禁止倒卖\",\"methodName\":\"Memory-SimpleHook\"}]"
@@ -53,7 +53,7 @@
         "appName": "网梭",
         "versionName": "3.1.0",
         "description": "解锁VIP",
-        "configs": "[{\"className\":\"q00\",\"methodName\":\"y\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
+        "configs": "[{\"className\":\"me0\",\"methodName\":\"y\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "org.telegram.messenger",
@@ -96,7 +96,6 @@
         "versionName": "10.5.0",
         "description": "解锁Permium",
         "configs": "[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
-        
     },
     {
         "packageName": "org.telegram.group",
