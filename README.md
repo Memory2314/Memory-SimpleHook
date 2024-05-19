@@ -21,27 +21,27 @@
 
 科学上网
 ```
-https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/科学上网.json
+https://github.com/Memory2314/Memory-SimpleHook/raw/main/科学上网.json
 ```
 
 影音阅读
 ```
-https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/影音阅读.json
+https://github.com/Memory2314/Memory-SimpleHook/raw/main/影音阅读.json
 ```
 
 玩机工具
 ```
-https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/玩机工具.json
+https://github.com/Memory2314/Memory-SimpleHook/raw/main/玩机工具.json
 ```
 
 实用软件
 ```
-https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/实用软件.json
+https://github.com/Memory2314/Memory-SimpleHook/raw/main/实用软件.json
 ```
 
 扩展
 ```
-https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
+https://github.com/Memory2314/Memory-SimpleHook/raw/main/扩展.json
 ```
 
 </details>
