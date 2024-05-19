@@ -348,7 +348,6 @@
         "versionName": "24.03.22",
         "description": "解锁至尊会员",
         "configs": "[{\"className\":\"com.user.model.WechatModel\",\"methodName\":\"getVipEndTime\",\"resultValues\":\"5555-05-21 13:14\",\"hookPoint\":\"after\"}]"
-
     },
     {
         "packageName": "com.jsj.autojs",
@@ -377,7 +376,6 @@
         "versionName": "3.6.0",
         "description": "解锁会员",
         "configs": "[{\"className\":\"com.naiyoubz.main.model.net.AccountModel\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
-
     },
     {
         "packageName": "com.shem.qushiuyin",
@@ -385,6 +383,82 @@
         "versionName": "1.0.4",
         "description": "解锁尊享版",
         "configs": "[{\"className\":\"com.ahzy.common.data.bean.User\",\"methodName\":\"getMStatus\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.ahzy.common.data.bean.User\",\"methodName\":\"getExpireTime\",\"resultValues\":\"5555-05-20\",\"hookPoint\":\"after\"}]"
-
+    },
+    {
+        "packageName": "com.mxtech.videoplayer.pro",
+        "appName": "MX 播放器专业版",
+        "versionName": "1.78.6",
+        "description": "解锁专业版",
+        "configs": "[{\"className\":\"com.mxtech.videoplayer.pro.App\",\"methodName\":\"R\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.tipsoon.android",
+        "appName": "简讯",
+        "versionName": "5.0.27",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.tipsoon.android.bean.ResultForJxCurentLoginUserInfos$DataUsrInfBean\",\"methodName\":\"isIs_vip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tipsoon.android.bean.ResultForJxCurentLoginUserInfos$DataUsrInfBean\",\"methodName\":\"getVip_expire_time\",\"resultValues\":\"5555-05-20 13:14\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.shuhua.paobu",
+        "appName": "舒华运动",
+        "versionName": "5.1.2",
+        "description": "解锁SVIP",
+        "configs": "[{\"className\":\"com.shuhua.paobu.bean.member.MemberCenterInfo\",\"methodName\":\"getSvip\",\"resultValues\":\"1\",\"hookPoint\":\"after\"},{\"className\":\"com.shuhua.paobu.bean.train.TrainPlanDetailBean\",\"methodName\":\"needOpenVip\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"className\":\"com.shuhua.paobu.bean.home.CourseListInfoBean$CourseInfo\",\"methodName\":\"needOpenVip\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.luna.music",
+        "appName": "汽水音乐",
+        "versionName": "9.8.0",
+        "description": "解锁VIP",
+        "configs": "[{\"className\":\"com.luna.common.arch.db.entity.User\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.luna.common.arch.db.entity.VipStatus\",\"methodName\":\"isSVip\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"className\":\"com.luna.biz.entitlement.bean.SubsInfo\",\"methodName\":\"isVip\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.adobe.lrmobile",
+        "appName": "Lightroom",
+        "versionName": "9.2.2",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"k4.a\",\"methodName\":\"q\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.xueping.fishingweather",
+        "appName": "钓鱼天气",
+        "versionName": "4.2",
+        "description": "解锁永久会员",
+        "configs": "[{\"className\":\"com.xueping.fishingweather.helper.User\",\"methodName\":\"getType\",\"resultValues\":\"5\",\"hookPoint\":\"after\"},{\"className\":\"com.xueping.fishingweather.helper.User\",\"methodName\":\"calculateISVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "oms.mmc.fortunetelling.gmpay.almanac2",
+        "appName": "顺历",
+        "versionName": "5.8.1",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.mmc.user_lib.entity.UserFile\",\"methodName\":\"getPaid_status\",\"resultValues\":\"1\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "peachy.bodyeditor.faceapp",
+        "appName": "Peachy",
+        "versionName": "1.053.17",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"a7.m\",\"methodName\":\"d\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.moji.mjweather",
+        "appName": "墨迹天气",
+        "versionName": "9.0863.02",
+        "description": "解锁会员",
+        "configs": "[{\"className\":\"com.moji.account.data.UserInfo\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.qq.qcloud",
+        "appName": "腾讯微云",
+        "versionName": "6.10.0",
+        "description": "微云会员",
+        "configs": "[{\"className\":\"com.qq.qcloud.meta.config.UserConfig$UserInfo\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.qq.qcloud.meta.config.UserConfig$UserInfo\",\"methodName\":\"isVipSuper\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.mfcloudcalculate.networkdisk",
+        "appName": "123云盘",
+        "versionName": "2.3.12",
+        "description": "解锁本地会员免广告",
+        "configs": "[{\"className\":\"com.mfcloudcalculate.networkdisk.ad.AdTextureRegistrant$Companion\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     }
 ]

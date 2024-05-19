@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 酷狗概念版                | 去更新         |
 | QQ音乐                  | 解锁调试模式    |
 | 小米音乐                 | 免看广告获取时长，去除下载加密  |
-| 网易云音乐               | 解锁本地黑胶    |
+| 网易云音乐               | 本地Lv10,黑胶柒    |
 
 </details>
 
@@ -190,6 +190,17 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 万象小组件       | 解锁会员             |
 | 奶油桌面         | 解锁会员             |
 | 万能免费去水印神器 | 解锁尊享版         |
+| MX 播放器专业版 | 解锁专业版           |
+| 简讯             | 解锁会员             |
+| 舒华运动         | 解锁SVIP             |
+| 汽水音乐         | 解锁VIP              |
+| Lightroom        | 解锁高级版           |
+| 钓鱼天气         | 解锁永久会员          |
+| 顺历             | 解锁会员             |
+| Peachy           | 解锁会员             |
+| 墨迹天气         | 解锁会员             |
+| 腾讯微云         | 解锁会员             |
+| 123云盘         | 解锁本地会员免广告    |
 
 </details>
 
@@ -204,6 +215,7 @@ https://raw.githubusercontent.com/Memory2314/Memory-SimpleHook/main/扩展.json
 | 王者荣耀            | 伪装机型开启极高(120帧)帧率 |
 | 微信                | 解除语音/视频通话播放视频/语音限制 |
 | Minecraft           | 去除购买验证                       |
+| 外部存储设备        | 无存储限制             |
 
 </details>
 

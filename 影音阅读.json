@@ -65,8 +65,8 @@
     {
         "packageName": "com.netease.cloudmusic",
         "appName": "网易云音乐",
-        "versionName": "8.2.61",
-        "description": "解锁本地黑胶",
-        "configs": "[{\"className\":\"com.netease.cloudmusic.meta.virtual.UserPrivilege\",\"methodName\":\"isBlackVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+        "versionName": "8.0.0",
+        "description": "本地Lv10,黑胶柒",
+        "configs": "[{\"className\":\"com.netease.cloudmusic.meta.virtual.UserPrivilege\",\"methodName\":\"isBlackVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.netease.cloudmusic.meta.Profile\",\"methodName\":\"getLevel\",\"resultValues\":\"10\",\"hookPoint\":\"after\"},{\"className\":\"com.netease.cloudmusic.meta.virtual.UserPrivilege\",\"methodName\":\"getRedVipLevel\",\"resultValues\":\"7\",\"hookPoint\":\"after\"},{\"className\":\"com.netease.cloudmusic.meta.Profile\",\"methodName\":\"getFolloweds\",\"resultValues\":\"520\",\"hookPoint\":\"after\"}]"
     }
 ]

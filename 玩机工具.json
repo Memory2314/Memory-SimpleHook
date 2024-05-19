@@ -72,9 +72,9 @@
     {
         "packageName": "com.digibites.accubattery",
         "appName": "AccuBattery",
-        "versionName": "2.1.2",
+        "versionName": "2.1.4",
         "description": "解锁AccuBattery Pro",
-        "configs": "[{\"className\":\"ab.Ȉł\",\"methodName\":\"łÎ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+        "configs": "[{\"className\":\"ab.nk\",\"methodName\":\"IĻ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "com.catchingnow.np",

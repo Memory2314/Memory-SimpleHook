@@ -40,5 +40,12 @@
         "versionName": "1.20.80.22",
         "description": "去除购买验证",
         "configs": "[{\"className\":\"com.googleplay.licensing.ServerManagedPolicy\",\"methodName\":\"allowAccess\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.android.externalstorage",
+        "appName": "外部存储设备",
+        "versionName": "14",
+        "description": "无存储限制",
+        "configs": "[{\"className\":\"com.android.externalstorage.ExternalStorageProvider\",\"methodName\":\"shouldBlockFromTree\",\"params\":\"java.lang.String\",\"resultValues\":\"false\",\"hookPoint\":\"after\"},{\"className\":\"com.android.externalstorage.ExternalStorageProvider\",\"methodName\":\"shouldBlockDirectoryFromTree\",\"params\":\"java.lang.String\",\"resultValues\":\"false\",\"hookPoint\":\"after\"}]"
     }
 ]
