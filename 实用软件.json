@@ -142,9 +142,9 @@
     {
         "packageName": "com.magicalstory.AppStore",
         "appName": "奇妙应用",
-        "versionName": "1.1.7",
+        "versionName": "1.2.1",
         "description": "免投币查看附件，解锁Premium",
-        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.editor\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"},{\"className\":\"p8.b\",\"methodName\":\"t\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"d\",\"params\":\"java.lang.String\",\"resultValues\":\"113143670061000l\",\"hookPoint\":\"after\"}]"
+        "configs": "[{\"className\":\"com.magicalstory.AppStore.entity.section.item_post\",\"methodName\":\"getCoin\",\"resultValues\":\"0\",\"hookPoint\":\"after\"},{\"className\":\"p8.b\",\"methodName\":\"u\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.tencent.mmkv.MMKV\",\"methodName\":\"d\",\"params\":\"java.lang.String\",\"resultValues\":\"113143670061000l\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "cn.ticktick.task",
@@ -460,5 +460,47 @@
         "versionName": "2.3.12",
         "description": "解锁本地会员免广告",
         "configs": "[{\"className\":\"com.mfcloudcalculate.networkdisk.ad.AdTextureRegistrant$Companion\",\"methodName\":\"isVip\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.losa.daka",
+        "appName": "柚子fun",
+        "versionName": "5.0.4",
+        "description": "去部分广告",
+        "configs": "[{\"mode\":2,\"className\":\"com.qumeng.advlib.api.AiClkAdManager\",\"methodName\":\"init\",\"params\":\"android.content.Context,java.lang.String\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"com.qumeng.advlib.api.AiClkAdManager\",\"methodName\":\"init\",\"params\":\"com.qumeng.advlib.core.QMConfig\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.wpengapp.hscreen",
+        "appName": "一键横屏",
+        "versionName": "1.6.0",
+        "description": "解锁完整版",
+        "configs": "[{\"className\":\"com.wpengapp.support.ԫ\",\"methodName\":\"Ӌ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.wpengapp.support.ڶ\",\"methodName\":\"Р\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.wpengapp.lightstart",
+        "appName": "轻启动",
+        "versionName": "2.36.0",
+        "description": "解锁完整版",
+        "configs": "[{\"className\":\"com.wpengapp.support.Ө\",\"methodName\":\"Ӂ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"className\":\"com.wpengapp.support.Ө\",\"methodName\":\"ƙ\",\"params\":\"com.wpengapp.support.licensing.model.โ\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.caij.twiper",
+        "appName": "Flyy",
+        "versionName": "2.1.0.2",
+        "description": "解锁高级版",
+        "configs": "[{\"className\":\"com.caij.twiper.vip.Wwwwwwwwwwwwwwwwwwvvmv\",\"methodName\":\"wwwwwwww\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "com.playit.videoplayer",
+        "appName": "PLAYit",
+        "versionName": "2.7.19.21",
+        "description": "解除所有限制",
+        "configs": "[{\"mode\":2,\"className\":\"com.quantum.player.ui.activities.MainActivity\",\"methodName\":\"checkChinaUser\",\"hookPoint\":\"after\",\"desc\":\"拦截地区限制\"},{\"className\":\"i.a.v.q.h\",\"methodName\":\"k\",\"resultValues\":\"true\",\"hookPoint\":\"after\",\"desc\":\"解锁VIP\"}]"
+    },
+    {
+        "packageName": "app.jjyy.passstore",
+        "appName": "PassStore",
+        "versionName": "1.1.6",
+        "description": "仅解锁One",
+        "configs": "[{\"mode\":3,\"fieldName\":\"a\",\"fieldClassName\":\"JQ\",\"resultValues\":\"1\"}]"
     }
 ]

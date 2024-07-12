@@ -58,9 +58,9 @@
     {
         "packageName": "github.tornaco.android.thanos",
         "appName": "Thanox",
-        "versionName": "5.0.7-4-87b2c10-prc",
-        "description": "解锁高级版",
-        "configs": "[{\"className\":\"fortuitous.yz1\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.vz1\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]"
+        "versionName": "5.1.1-prc",
+        "description": "激活高级版",
+        "configs": "[{\"className\":\"fortuitous.xs2\",\"methodName\":\"g\",\"params\":\"android.content.Context\",\"resultValues\":\"true\",\"hookPoint\":\"after\"},{\"mode\":2,\"className\":\"fortuitous.us2\",\"methodName\":\"accept\",\"params\":\"java.lang.Object\",\"hookPoint\":\"after\"}]"
     },
     {
         "packageName": "cn.trinea.android.developertools",
@@ -152,5 +152,12 @@
         "versionName": "3.25.3 C",
         "description": "解锁高级版",
         "configs": "[{\"className\":\"com.catchingnow.icebox.provider.r1\",\"methodName\":\"O\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
+    },
+    {
+        "packageName": "cn.myflv.noactive",
+        "appName": "NoActive",
+        "versionName": "3.9-Pro",
+        "description": "解锁激活版",
+        "configs": "[{\"className\":\"x0.d\",\"methodName\":\"b\",\"resultValues\":\"true\",\"hookPoint\":\"after\"}]"
     }
 ]

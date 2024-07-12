@@ -132,3 +132,17 @@
 
 ### 适配
 - AccuBattery 2.1.4
+
+## 2024/07/12
+### 新增
+- 柚子fun
+- 一键横屏
+- 轻启动
+- Flyy
+- PLAYit
+- NoActive
+- PassStore
+
+### 适配
+- Thanox 5.1.1-prc
+- 奇妙应用 1.2.1
